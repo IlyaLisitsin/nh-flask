@@ -1,0 +1,1753 @@
+status,floor,type,name,globalId,magnitude,approved
+deviated,02,IfcWall,Basic Wall:IW01_40dB_102mm:1879385,3ffWOMHNv2qPtT9Eb80rEj,2900,yes
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:10863919,2ao0yFesXCIhczfPTop2Gi,1300,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:9880133,1uN42S9n973hc2yBQVasti,1100,no
+deviated,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:11903548,3vx2sjlB12e8eOtQ9zjXRs,1000,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:11903552,3vx2sjlB12e8eOtQ9zjXQA,943,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Salamandre_Distribution_Trunking-Traditional_IP30-Pre_Galvanised_Steel-Gusset:12582350,1oBjXTqX10IgzpSiG8P0Tp,940,no
+deviated,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:11903550,3vx2sjlB12e8eOtQ9zjXRq,939,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15431411,3m87MdxKDAl8jsiMNmr_gf,790,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:9885849,3v8neF4N15OvmngDfG0$qG,756,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:9888895,0MzzbOrzDEGAVW$hS4sw_0,668,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15430748,3m87MdxKDAl8jsiMNmr_W6,580,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15431181,3m87MdxKDAl8jsiMNmr_fN,537,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:9888840,0MzzbOrzDEGAVW$hS4sw_t,516,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15430487,3m87MdxKDAl8jsiMNmr_yD,515,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12972481,0fT4xIU7XFkh5FFZQhVrrg,490,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15430617,3m87MdxKDAl8jsiMNmr__3,485,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12997974,1HURQlRNj9vuvK6aQEgMlE,473,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:15431151,3m87MdxKDAl8jsiMNmr_cr,446,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15430205,3m87MdxKDAl8jsiMNmr_vd,425,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15209781,2rY5pXXsr5qQTn07hYMREm,423,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12961188,3PXuHL4Zj1Eulm9rAjpBhM,410,no
+deviated,02,IfcWall,Basic Wall:IW01_40dB_102mm:7663048,2R8f94QQTDbhuJ5O2d8pxa,403,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15208021,2rY5pXXsr5qQTn07hYMQZG,340,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12961531,0O_JxLS7H7ovAZANboFhWy,321,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15209304,2rY5pXXsr5qQTn07hYMRNT,315,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:10869314,399DNKJhP5FBf2_lLfJeiS,307,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11763015,2ykjEHqsLAygN49lthYrYe,300,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12926497,3T3b$R6bHA0wAyiKGLM4Ig,300,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3411880,2VW8oDMSfE2RAKx$0Ht2y5,291,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:9888805,0MzzbOrzDEGAVW$hS4sw$Q,286,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:9885899,3v8neF4N15OvmngDfG0$r2,278,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15431639,3m87MdxKDAl8jsiMNmr_kD,276,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12926511,3T3b$R6bHA0wAyiKGLM4ZG,270,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15208022,2rY5pXXsr5qQTn07hYMQZJ,262,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12997167,1HURQlRNj9vuvK6aQEgMot,261,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402629,1_XberoHPCOA7pqervehy0,260,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400411,2nLO9BJXv8u8tU2AWaSBBJ,260,no
+deviated,02,IfcWall,Basic Wall:IW01_0dB_102mm:1815642,129rBOvGT6ixA7T37uV9IK,257,no
+deviated,02,IfcWall,Basic Wall:IW02_45dB_102mm:1174826,3RkHgAvGj8oR7ad60KgCPX,255,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402632,1_XberoHPCOA7pqervehyD,254,no
+deviated,02,IfcDuctFitting,Duct Bend - Round Pressed Bend - Slip Joint:Medium Radius:11725851,2ykjEHqsLAygN49lthYidq,252,no
+deviated,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3401754,0KqpSkma91KQQW4Boaras3,250,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15209778,2rY5pXXsr5qQTn07hYMREt,250,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12955721,0Raz0Uwr540RGuIYlypU94,250,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:9897198,2h_VAJupH4wguB1M12jRUx,249,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3429380,3pV4_xRYHDnRoc1mXZ_xwf,247,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11904168,3vx2sjlB12e8eOtQ9zjX1Y,241,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12954754,2ymgR9QAT74fTx_39MjOn_,240,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15207194,2rY5pXXsr5qQTn07hYMQsV,239,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:12207449,0ykq77CML26v1fiWApgS5I,238,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15431933,3m87MdxKDAl8jsiMNmr_Id,238,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3420955,1eEuhQwwvB6ftVAvrpgwqq,236,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15431837,3m87MdxKDAl8jsiMNmr_J7,236,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400413,2nLO9BJXv8u8tU2AWaSBBL,230,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12916125,2fA4xY5Gb8gxBVNd6hO$cK,228,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15430104,3m87MdxKDAl8jsiMNmr_s2,225,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15206914,2rY5pXXsr5qQTn07hYMQo7,222,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12975209,0fT4xIU7XFkh5FFZQhVr32,222,no
+deviated,02,IfcDuctSegment,Round Duct:Segmented Bend - Slip Joint:11738401,2ykjEHqsLAygN49lthYpZE,221,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:12572618,24UmJLTTX3ZgkuWiTk6Zr0,220,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400355,2nLO9BJXv8u8tU2AWaSBAh,220,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15431741,3m87MdxKDAl8jsiMNmr_Hd,219,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12953972,3F8elRFCfEl9f0qrWHV$fo,215,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15209782,2rY5pXXsr5qQTn07hYMREp,213,no
+deviated,02,IfcDuctFitting,Duct Bend - Round Pressed Bend - Slip Joint:Medium Radius:11738405,2ykjEHqsLAygN49lthYpZA,212,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15209775,2rY5pXXsr5qQTn07hYMREg,209,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12598415,3Lqb2YQ5fD4w9atRo3CESa,203,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15206996,2rY5pXXsr5qQTn07hYMQpH,202,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:9888929,0MzzbOrzDEGAVW$hS4swzU,200,no
+deviated,02,IfcPipeFitting,Elbow - Plain - PVC-C:Standard:14970186,15MgwAISH5k9sgHJUYwj6M,200,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400398,2nLO9BJXv8u8tU2AWaSBB6,200,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15208338,2rY5pXXsr5qQTn07hYMQaN,200,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15209780,2rY5pXXsr5qQTn07hYMREn,198,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15210251,2rY5pXXsr5qQTn07hYMR6E,197,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3426238,0Km9QgkUj4Suq4NHKhFQnV,196,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15209783,2rY5pXXsr5qQTn07hYMREo,194,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400470,2nLO9BJXv8u8tU2AWaSBCU,192,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12994487,2t2HuskvLFx85KpPsynZsF,191,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15209779,2rY5pXXsr5qQTn07hYMREs,190,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15429998,3m87MdxKDAl8jsiMNmr_qq,189,no
+deviated,02,IfcCableSegment,Cable Tray with Fittings:09 - Submain:11720874,2ykjEHqsLAygN49lthYlr5,188,no
+deviated,02,IfcDuctSegment,Flex Duct Round:Flex - Round:11737410,2ykjEHqsLAygN49lthYpoj,185,no
+deviated,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9911727,09A9KbM9z4DOWIOWMUs3K7,183,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15209777,2rY5pXXsr5qQTn07hYMREq,183,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15208024,2rY5pXXsr5qQTn07hYMQZT,180,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15210250,2rY5pXXsr5qQTn07hYMR6F,178,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:9880320,1uN42S9n973hc2yBQVasof,177,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12960730,1YcSMjaSf5vBXBgpDrBRti,177,no
+deviated,02,IfcWall,Basic Wall:IW01_0dB_102mm:1815444,129rBOvGT6ixA7T37uV9DQ,176,no
+deviated,02,IfcDuctFitting,Duct Bend - Round Pressed Bend - Slip Joint:Medium Radius:11737539,2ykjEHqsLAygN49lthYpmi,176,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12598544,3Lqb2YQ5fD4w9atRo3CEQx,175,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12598510,3Lqb2YQ5fD4w9atRo3CET5,172,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12598526,3Lqb2YQ5fD4w9atRo3CETL,171,no
+deviated,02,IfcDuctSegment,Flex Duct Round:Flex - Round:11737426,2ykjEHqsLAygN49lthYpoz,170,no
+deviated,02,IfcDuctSegment,Flex Duct Round:Flex - Round:11737418,2ykjEHqsLAygN49lthYpob,169,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400459,2nLO9BJXv8u8tU2AWaSBC3,167,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15209302,2rY5pXXsr5qQTn07hYMRNJ,167,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15209776,2rY5pXXsr5qQTn07hYMREr,166,no
+deviated,02,IfcWall,Basic Wall:IW01_40dB_102mm:1993051,1NnGh6nM57khvEcNsAUe_v,165,no
+deviated,02,IfcWall,Basic Wall:IW01_40dB_102mm:1993089,1NnGh6nM57khvEcNsAUezZ,165,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400372,2nLO9BJXv8u8tU2AWaSBAy,163,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3417820,12tS2p7$5BZgMZXmZGvzap,160,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402648,1_XberoHPCOA7pqervehyT,160,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15208340,2rY5pXXsr5qQTn07hYMQaH,160,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15429871,3m87MdxKDAl8jsiMNmr_or,160,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:9916804,3x$Dc00UnEnQKR8ZAljYIV,159,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12989560,05i338kKjCFAgUnk1ESN5V,158,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3417788,12tS2p7$5BZgMZXmZGvzbJ,157,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12598491,3Lqb2YQ5fD4w9atRo3CETm,157,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3420814,1eEuhQwwvB6ftVAvrpgwoX,155,no
+deviated,R2,IfcCovering,Beam Encasement L5:Beam Encasement L02:11484089,1rO4NmWoHFneHavzqwB_F2,154,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3418743,2hDUvQ0aL08h5aw6fqGtmk,154,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15209303,2rY5pXXsr5qQTn07hYMRNI,154,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:13439197,1ijsrbQTP6Y9IHPbG3jm0o,151,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12995503,2t2HuskvLFx85KpPsynZ6N,151,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:13437282,2Sycqqmqn09hAlRUzKU6xi,150,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15208023,2rY5pXXsr5qQTn07hYMQZI,150,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15208025,2rY5pXXsr5qQTn07hYMQZS,150,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12999852,1HURQlRNj9vuvK6aQEgM8q,150,no
+deviated,02,IfcWall,Basic Wall:IW01_40dB_102mm:1175229,3RkHgAvGj8oR7ad60KgCNs,149,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3428640,3sMlup5iT1P8XpXPhfpxIq,149,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:9887593,0MzzbOrzDEGAVW$hS4svIM,148,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15429735,3m87MdxKDAl8jsiMNmr_mz,148,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3417790,12tS2p7$5BZgMZXmZGvzbH,145,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3418794,2hDUvQ0aL08h5aw6fqGtpp,145,no
+deviated,02,IfcPipeFitting,Socket Reducing - Threaded - MI:Standard:3418801,2hDUvQ0aL08h5aw6fqGtpe,145,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3412430,2VW8oDMSfE2RAKx$0Ht35Z,144,no
+deviated,02,IfcWall,Basic Wall:IW01_40dB_102mm:1956938,2g5G4JcSzFTuUPJzeiSDlh,144,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15207236,2rY5pXXsr5qQTn07hYMQt1,144,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3428448,3sMlup5iT1P8XpXPhfpxNq,143,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11725847,2ykjEHqsLAygN49lthYidu,141,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3590097,3ZwXn8dd9AvumEkMqJNt3o,141,no
+deviated,02,IfcPipeFitting,Socket Reducing - Threaded - MI:Standard:3418798,2hDUvQ0aL08h5aw6fqGtpt,140,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12851131,3DquJpWhD7999Z0Y7atFYs,140,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3429112,3lPjhbcJjDxggerrTpSZCT,140,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15208341,2rY5pXXsr5qQTn07hYMQaG,139,no
+deviated,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9928457,3hUlq47ov9JO7vj3jEohI0,139,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3429090,3lPjhbcJjDxggerrTpSZC7,139,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3428644,3sMlup5iT1P8XpXPhfpxIm,138,no
+deviated,02,IfcDuctFitting,Duct Blank End - Rectangular:Standard:11738398,2ykjEHqsLAygN49lthYpZn,137,no
+deviated,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9928784,3hUlq47ov9JO7vj3jEoalP,137,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3428646,3sMlup5iT1P8XpXPhfpxIo,136,no
+deviated,02,IfcWall,Basic Wall:IW31_0dB_100mm:1956917,2g5G4JcSzFTuUPJzeiSDkK,135,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15207192,2rY5pXXsr5qQTn07hYMQsT,135,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11738365,2ykjEHqsLAygN49lthYpaI,135,no
+deviated,02,IfcDuctSegment,Flex Duct Round:Flex - Round:11737440,2ykjEHqsLAygN49lthYpoF,135,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3429406,3pV4_xRYHDnRoc1mXZ_xwp,134,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15208337,2rY5pXXsr5qQTn07hYMQaK,133,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15206980,2rY5pXXsr5qQTn07hYMQp1,132,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:4930658,3QnRAZ7ZHBfBOP_e7KbYww,132,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3417862,12tS2p7$5BZgMZXmZGvzZf,131,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:4171211,0R0DHe4dzFoQlypB8jMSMm,130,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:4172334,0R0DHe4dzFoQlypB8jMSfL,130,no
+deviated,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3593919,0aVFKvzJjDYeyckxxXc5Vw,130,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3417798,12tS2p7$5BZgMZXmZGvzaf,130,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:4071272,2GhxCA_xP0QgXlKUdLIWT3,130,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:13437278,2Sycqqmqn09hAlRUzKU6x0,130,no
+deviated,02,IfcPipeFitting,Cross - Threaded - MI:Standard:3418796,2hDUvQ0aL08h5aw6fqGtpr,130,no
+deviated,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3418764,2hDUvQ0aL08h5aw6fqGtpL,130,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15207195,2rY5pXXsr5qQTn07hYMQsU,130,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15208339,2rY5pXXsr5qQTn07hYMQaM,130,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:11752846,2ykjEHqsLAygN49lthYt1X,130,no
+deviated,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3428995,3sMlup5iT1P8XpXPhfpxSN,130,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12923404,0uEvEBCpLEYQNRPxLlfCCK,130,no
+deviated,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11738364,2ykjEHqsLAygN49lthYpaJ,129,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3785114,3K5Em3PkvFn9aTtfZxKntf,128,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3426132,0Km9QgkUj4Suq4NHKhFQor,127,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:4171068,0R0DHe4dzFoQlypB8jMSL7,127,no
+deviated,02,IfcDuctFitting,Duct Branch -Round Shoe Branch - Slip Joint:Standard:13652558,2GOonHucLFHg7SewT2NDus,126,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15208342,2rY5pXXsr5qQTn07hYMQaJ,126,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3785112,3K5Em3PkvFn9aTtfZxKnth,126,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12995118,2t2HuskvLFx85KpPsynZ0M,126,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:4171066,0R0DHe4dzFoQlypB8jMSL1,125,no
+deviated,02,IfcDuctFitting,Duct Branch -Round Shoe Branch - Slip Joint:Standard:11763863,2ykjEHqsLAygN49lthYwLu,125,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3785093,3K5Em3PkvFn9aTtfZxKnts,125,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3590099,3ZwXn8dd9AvumEkMqJNt3m,125,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:8319780,1yv$wxy$vE1AoGidGpvzL1,124,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12957901,0Raz0Uwr540RGuIYlypVVU,124,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:13441715,3s6fxzzk9AIwGs8nLLWUnf,124,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12993165,2t2HuskvLFx85KpPsynaRO,123,no
+deviated,02,IfcWall,Basic Wall:IW01_40dB_102mm:2393768,1gvPC$JYr78uOiCnGyZ2bf,122,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11766291,2ykjEHqsLAygN49lthYw$y,122,no
+deviated,02,IfcWall,Basic Wall:IW30_0dB_85mm:1171787,3RkHgAvGj8oR7ad60KgCe0,122,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3590073,3ZwXn8dd9AvumEkMqJNt2Q,122,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:12708740,2GJYeiVFr80xeIGkK75EjZ,121,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9911731,09A9KbM9z4DOWIOWMUs3KR,120,no
+deviated,02,IfcPipeFitting,AGL_PipeFitting_3BossBranchSwept:Type 301:12778487,0im$V8ptHD8ATqCrIyVL8r,120,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3417822,12tS2p7$5BZgMZXmZGvzan,120,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3454473,1CxA9g4bfD3fpda9tF8b3r,120,no
+deviated,02,IfcPipeFitting,Tee - Plain - PVC-C:Standard:11781472,2ykjEHqsLAygN49lthY_2F,120,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11724853,2ykjEHqsLAygN49lthYitQ,120,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11734655,2ykjEHqsLAygN49lthYokG,120,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11893637,0_koDmhcbCJPzGx9ITK6lC,118,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3415722,12tS2p7$5BZgMZXmZGv_55,118,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:13419388,2oWaAStSP5EQwJ1WBlU7hE,118,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12983920,1Ls9KWAmf24OC$gmmVTbSJ,118,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Gas:11885410,02kopIvPbFtxB8$ajbvd9b,117,no
+deviated,02,IfcWall,Basic Wall:IW01_0dB_102mm:1956978,2g5G4JcSzFTuUPJzeiSDlJ,116,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Radius Bend - Slip Joint:11734863,2ykjEHqsLAygN49lthYogW,116,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3426922,0Km9QgkUj4Suq4NHKhFQ6B,115,no
+deviated,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3426311,0Km9QgkUj4Suq4NHKhFQFc,115,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:4171057,0R0DHe4dzFoQlypB8jMSLA,115,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3450626,0gYHJIih1AVe7ivnxSKOmr,115,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11881438,0wWp4hodTFJ98H8qxOW40H,115,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:10873188,1hr2fqA0fAX8pib9f2SZ3E,115,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3414684,2DRR6qssX5pQKPCcF$3c8O,115,no
+deviated,02,IfcDuctFitting,Duct Bend - Round Pressed Bend - Slip Joint:Medium Radius:12708742,2GJYeiVFr80xeIGkK75Ejh,115,no
+deviated,02,IfcSpaceHeater,ESG_MEEQ_HVR-ZERO-X_No-Back-Ducting:Left - Louvre Type B:15431525,3m87MdxKDAl8jsiMNmr_i$,115,no
+deviated,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3785102,3K5Em3PkvFn9aTtfZxKntz,114,no
+deviated,02,IfcWall,Basic Wall:IW01_40dB_102mm:7664394,1Iy1v3WrTCgwXzb$8MOa8S,113,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3408073,1XAD7fS4v52PD_7o$rawN2,113,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:14987486,080fMIoKT9kRzcTpFSP02R,112,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11881436,0wWp4hodTFJ98H8qxOW40J,112,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11775003,2ykjEHqsLAygN49lthYudq,112,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3429828,3pV4_xRYHDnRoc1mXZ_xzf,112,no
+deviated,02,IfcDuctFitting,Duct Transformation - Rectangular - Round - Slip Joint:Standard:11768271,2ykjEHqsLAygN49lthYxGW,111,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:4171202,0R0DHe4dzFoQlypB8jMSMv,110,no
+deviated,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3442268,1FBl0bJQTDM8XOALKPrvVB,110,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11766275,2ykjEHqsLAygN49lthYw$i,110,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:12955568,2ymgR9QAT74fTx_39MjOzC,110,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12847933,3DquJpWhD7999Z0Y7atEYO,110,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12598560,3Lqb2YQ5fD4w9atRo3CEQB,110,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:7540358,0HPqbHT_jD3Q9ICHRlSgFY,110,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:8307115,1ri5oisEj5QQPXPr82DxCC,109,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11724989,2ykjEHqsLAygN49lthYirI,108,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3429900,3pV4_xRYHDnRoc1mXZ_xoX,108,no
+deviated,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9911729,09A9KbM9z4DOWIOWMUs3KP,107,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:4171673,0R0DHe4dzFoQlypB8jMSVY,107,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12986497,1Ls9KWAmf24OC$gmmVTc7Y,107,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3511988,095F13Lo5DgQ_wApZOMV76,106,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:8307903,1ri5oisEj5QQPXPr82DxOO,106,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11734727,2ykjEHqsLAygN49lthYoie,105,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11737497,2ykjEHqsLAygN49lthYpns,105,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3515053,095F13Lo5DgQ_wApZOMSNV,104,no
+deviated,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9912405,09A9KbM9z4DOWIOWMUs4Zz,104,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3782862,1PoYFu5oj3oPQqJOSG5sH3,104,no
+deviated,02,IfcWall,Basic Wall:IW31_0dB_100mm:1172184,3RkHgAvGj8oR7ad60KgCcJ,104,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:8308048,1ri5oisEj5QQPXPr82DxVt,104,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3426865,0Km9QgkUj4Suq4NHKhFQ7G,103,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3426298,0Km9QgkUj4Suq4NHKhFQmR,103,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11761983,2ykjEHqsLAygN49lthYrpG,103,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3429096,3lPjhbcJjDxggerrTpSZCD,103,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:8319720,1yv$wxy$vE1AoGidGpvzID,103,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3785761,00JWife956PxKDBC3Ttzg9,102,no
+deviated,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3512185,095F13Lo5DgQ_wApZOMV0B,102,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11724897,2ykjEHqsLAygN49lthYisE,102,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12999054,1HURQlRNj9vuvK6aQEgMSM,102,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11737531,2ykjEHqsLAygN49lthYpnK,101,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Elbow No 10-13:Standard:3590091,3ZwXn8dd9AvumEkMqJNt3e,101,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3408882,3v9xDUcE13reP5o14YYCSK,101,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3426244,0Km9QgkUj4Suq4NHKhFQmb,100,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3783413,1PoYFu5oj3oPQqJOSG5sPu,100,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11735336,2ykjEHqsLAygN49lthYpJ7,100,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12999670,1HURQlRNj9vuvK6aQEgMLk,100,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11746472,2ykjEHqsLAygN49lthYnb7,99,no
+deviated,02,IfcWall,Basic Wall:IW01_40dB_102mm:1172645,3RkHgAvGj8oR7ad60KgC$k,99,no
+deviated,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3426864,0Km9QgkUj4Suq4NHKhFQ7H,98,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3420588,1eEuhQwwvB6ftVAvrpgw_3,98,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12874518,25LZiN2Pz7BBAbb$fTBhao,98,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage PVC New:11781468,2ykjEHqsLAygN49lthY_2p,98,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11739591,2ykjEHqsLAygN49lthYmGe,98,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3429641,3pV4_xRYHDnRoc1mXZ_x_a,98,no
+deviated,02,IfcDuctFitting,Duct Branch -Round Shoe Branch - Slip Joint:Standard:11766293,2ykjEHqsLAygN49lthYw$w,97,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3429170,3lPjhbcJjDxggerrTpSZBN,97,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12920805,05F3kw65b1XAipN0aQNX2N,97,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:9888760,0MzzbOrzDEGAVW$hS4swW7,96,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:15573485,3Gzd_aAsL9WgUSHGHDwwBr,96,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3425846,0Km9QgkUj4Suq4NHKhFQtN,95,no
+deviated,02,IfcPipeFitting,Bush Reducing - Plain - PVC-C:Standard:15054744,2kuDJ6tyH50A06RxlAYpIe,95,no
+deviated,02,IfcPipeFitting,Bush Reducing - Plain - PVC-C:Standard:11781464,2ykjEHqsLAygN49lthY_2t,95,no
+deviated,02,IfcDuctSegment,Round Duct:Segmented Bend - Slip Joint:11766228,2ykjEHqsLAygN49lthYwmx,95,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3408887,3v9xDUcE13reP5o14YYCSH,94,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3512177,095F13Lo5DgQ_wApZOMV03,93,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:4172325,0R0DHe4dzFoQlypB8jMSfU,93,no
+deviated,02,IfcBuildingElementProxy,Wall Sweep:Parapet capping:2272694,177AIerM1B2AK1OKsduXfb,93,no
+deviated,02,IfcDuctFitting,Duct Branch -Round Shoe Branch - Slip Joint:Standard:11738390,2ykjEHqsLAygN49lthYpZv,93,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3420513,1eEuhQwwvB6ftVAvrpgwzE,92,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Salamandre_Distribution_Trunking-Traditional_IP30-Pre_Galvanised_Steel-Gusset:12582360,1oBjXTqX10IgzpSiG8P00S,92,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3414854,2DRR6qssX5pQKPCcF$3cF2,92,no
+deviated,02,IfcWall,Basic Wall:IW01_40dB_102mm:1956977,2g5G4JcSzFTuUPJzeiSDlG,92,no
+deviated,02,IfcDuctFitting,Duct Bend - Round Pressed Bend - Slip Joint:Medium Radius:11725813,2ykjEHqsLAygN49lthYiuQ,92,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3429209,3lPjhbcJjDxggerrTpSZAy,92,no
+deviated,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9916142,3ZMdLyTJjE5hexaEdLQF2v,91,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12984858,1Ls9KWAmf24OC$gmmVTcjv,91,no
+deviated,02,IfcDuctFitting,Duct Bend - Round Pressed Bend - Slip Joint:Medium Radius:12708736,2GJYeiVFr80xeIGkK75Ekl,90,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3595178,2_e8Z9Tmf2e8Kn62dEctTF,90,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage PVC New:11781456,2ykjEHqsLAygN49lthY_2$,90,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3589473,3ZwXn8dd9AvumEkMqJNt92,90,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3429188,3lPjhbcJjDxggerrTpSZAX,90,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12947643,2GhhOXds104R1lTf_frVN9,90,no
+deviated,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9913483,09A9KbM9z4DOWIOWMUs4mZ,89,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:11734051,2ykjEHqsLAygN49lthYodC,89,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:12708731,2GJYeiVFr80xeIGkK75EXB,88,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11738378,2ykjEHqsLAygN49lthYpZb,88,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3429174,3lPjhbcJjDxggerrTpSZBJ,88,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12987212,05i338kKjCFAgUnk1ESMvh,88,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3415101,2DRR6qssX5pQKPCcF$3cIv,87,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:11879956,2vcDJ1Rzv6W8D0eP6bxROd,87,no
+deviated,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11737460,2ykjEHqsLAygN49lthYpoR,87,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3406466,19tgmllKf0l8wknYzdCRSW,86,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:12708734,2GJYeiVFr80xeIGkK75EkZ,86,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11782438,2ykjEHqsLAygN49lthY_p9,86,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:11752751,2ykjEHqsLAygN49lthYt30,86,no
+deviated,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9914531,3ZMdLyTJjE5hexaEdLQFRq,86,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:13000632,0IMCcBHP1DyPWvpcolPU$g,86,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3420603,1eEuhQwwvB6ftVAvrpgw_K,85,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11726254,2ykjEHqsLAygN49lthYiX1,85,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11725093,2ykjEHqsLAygN49lthYipA,85,no
+deviated,02,IfcDuctFitting,Duct Branch -Round Shoe Branch - Slip Joint:Standard:11738386,2ykjEHqsLAygN49lthYpZz,85,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9911965,09A9KbM9z4DOWIOWMUs3Or,84,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:4172433,0R0DHe4dzFoQlypB8jMShg,84,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3417404,12tS2p7$5BZgMZXmZGvzhJ,84,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3417567,12tS2p7$5BZgMZXmZGvzem,84,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3414864,2DRR6qssX5pQKPCcF$3cFK,84,no
+deviated,02,IfcDuctFitting,Duct Branch -Round Shoe Branch - Slip Joint:Standard:11738388,2ykjEHqsLAygN49lthYpZx,84,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12988461,05i338kKjCFAgUnk1ESNKA,84,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3415478,2DRR6qssX5pQKPCcF$3cKo,83,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:11746415,2ykjEHqsLAygN49lthYnc0,83,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12599129,3Lqb2YQ5fD4w9atRo3CEJo,83,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12598800,3Lqb2YQ5fD4w9atRo3CEMx,83,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3420618,1eEuhQwwvB6ftVAvrpgw$b,82,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11760538,2ykjEHqsLAygN49lthYrPr,82,no
+deviated,02,IfcWall,Basic Wall:IW01_40dB_102mm:1967745,3JHrlZqVfD_OOXWBOVI7IB,82,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11904166,3vx2sjlB12e8eOtQ9zjX1i,82,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11734226,2ykjEHqsLAygN49lthYoaz,81,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:4930625,3QnRAZ7ZHBfBOP_e7KbY9y,81,no
+deviated,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3426911,0Km9QgkUj4Suq4NHKhFQ6_,80,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:11907616,0fvBoMkUT5LvjDc8OGRtsh,80,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:12643171,0z4o2nxDv4yx2q3aL8srvA,80,no
+deviated,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3417425,12tS2p7$5BZgMZXmZGvzg_,80,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Elbow No 10-13:Standard:3417848,12tS2p7$5BZgMZXmZGvzaN,80,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3417398,12tS2p7$5BZgMZXmZGvzhP,80,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3447289,1HJnIHFlPBpODPjT1Sc7_B,80,no
+deviated,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3782987,1PoYFu5oj3oPQqJOSG5sN6,80,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:4070065,1RVlBYf0r1vBkz_0jBdO1a,80,no
+deviated,02,IfcPipeFitting,Elbow - Plain - PVC-C:Standard:12575571,1haLSL37T2ThKMH9cdbGMF,80,no
+deviated,02,IfcPipeFitting,Elbow - Plain - PVC-C:Standard:12577195,1haLSL37T2ThKMH9cdbGzt,80,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:13439407,1ijsrbQTP6Y9IHPbG3jm50,80,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3414996,2DRR6qssX5pQKPCcF$3cDG,80,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3414852,2DRR6qssX5pQKPCcF$3cF0,80,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3595172,2_e8Z9Tmf2e8Kn62dEctT1,80,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3399671,2nLO9BJXv8u8tU2AWaS8$$,80,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11725551,2ykjEHqsLAygN49lthYiy0,80,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11742682,2ykjEHqsLAygN49lthYmWr,80,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11746480,2ykjEHqsLAygN49lthYnbV,80,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11762211,2ykjEHqsLAygN49lthYr$C,80,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11763093,2ykjEHqsLAygN49lthYrXw,80,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11775000,2ykjEHqsLAygN49lthYudt,80,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:11778830,2ykjEHqsLAygN49lthYvxX,80,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12850728,3DquJpWhD7999Z0Y7atFab,80,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:9889401,0MzzbOrzDEGAVW$hS4sws6,79,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3446014,1HJnIHFlPBpODPjT1Sc7AC,79,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12599094,3Lqb2YQ5fD4w9atRo3CEIT,79,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3427127,0Km9QgkUj4Suq4NHKhFQ3M,78,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3446031,1HJnIHFlPBpODPjT1Sc7Dz,78,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3399841,2nLO9BJXv8u8tU2AWaSB2f,78,no
+deviated,02,IfcDuctFitting,Duct Branch -Round Shoe Branch - Slip Joint:Standard:11738376,2ykjEHqsLAygN49lthYpZd,78,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3450520,3LRPnSmq1CIuFl6_BL4E53,78,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3468315,1MIrgYf4z6egbK3CLp$zzV,77,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:9892545,2D5FDsJgv9E9ZFC6qs74vG,77,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3415371,2DRR6qssX5pQKPCcF$3cNF,77,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3419849,2hDUvQ0aL08h5aw6fqGtYG,77,no
+deviated,02,IfcPipeFitting,AGL_PipeFitting_CompactSoilAccessPlug:Type 301:11727780,2ykjEHqsLAygN49lthYjPB,77,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11737424,2ykjEHqsLAygN49lthYpo$,77,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12953974,3F8elRFCfEl9f0qrWHV$iQ,77,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12995794,2t2HuskvLFx85KpPsynZRg,77,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3414052,2DRR6qssX5pQKPCcF$3c2W,76,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11738382,2ykjEHqsLAygN49lthYpZX,76,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11762687,2ykjEHqsLAygN49lthYruG,76,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11762607,2ykjEHqsLAygN49lthYrv0,76,no
+deviated,02,IfcDuctSegment,Round Duct:Segmented Bend - Slip Joint:11766244,2ykjEHqsLAygN49lthYwmB,76,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12979890,1NI1otspX2JA09FrkZga5U,76,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3417453,12tS2p7$5BZgMZXmZGvzg2,75,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3406707,19tgmllKf0l8wknYzdCRRH,75,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:12708738,2GJYeiVFr80xeIGkK75Eid,75,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:11737557,2ykjEHqsLAygN49lthYpmw,75,no
+deviated,02,IfcDuctSegment,Round Duct:Segmented Bend - Slip Joint:11737437,2ykjEHqsLAygN49lthYpoo,75,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12849077,3DquJpWhD7999Z0Y7atE2u,75,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12960310,1YcSMjaSf5vBXBgpDrBRm0,75,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3450695,0gYHJIih1AVe7ivnxSKOnm,74,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3407874,19tgmllKf0l8wknYzdDasW,74,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12575552,1haLSL37T2ThKMH9cdbGMS,74,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3419843,2hDUvQ0aL08h5aw6fqGtYQ,74,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11782416,2ykjEHqsLAygN49lthY_p$,74,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11737449,2ykjEHqsLAygN49lthYpo6,74,no
+deviated,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11737428,2ykjEHqsLAygN49lthYpox,74,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11762451,2ykjEHqsLAygN49lthYrxy,74,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3589308,3ZwXn8dd9AvumEkMqJNtEV,74,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3450717,0gYHJIih1AVe7ivnxSKOng,73,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3413961,2DRR6qssX5pQKPCcF$3czD,73,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:11734055,2ykjEHqsLAygN49lthYod8,73,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11760357,2ykjEHqsLAygN49lthYrSA,73,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage PVC New:12776004,33zSm1_PH7nfs$_UYX0q0k,73,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage PVC New:12776014,33zSm1_PH7nfs$_UYX0q29,73,no
+deviated,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9916140,3ZMdLyTJjE5hexaEdLQF2x,73,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3408911,3v9xDUcE13reP5o14YYC3f,73,no
+deviated,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9912148,09A9KbM9z4DOWIOWMUs3Vy,72,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3784661,0ORryZ9Yz6xfVf6W2cSLAK,72,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12856180,1MDuVn0_HE_x0M4pWeckEJ,72,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:12571044,1lkgG8UjP5Whg9kEui1XVN,72,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Radius Bend - Slip Joint:11734861,2ykjEHqsLAygN49lthYogY,72,no
+deviated,00,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:11751357,2ykjEHqsLAygN49lthYsfI,72,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12848664,3DquJpWhD7999Z0Y7atE4L,72,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12848343,3DquJpWhD7999Z0Y7atEFQ,72,no
+deviated,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11725815,2ykjEHqsLAygN49lthYiuO,71,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11762685,2ykjEHqsLAygN49lthYruI,71,no
+verified,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11766243,2ykjEHqsLAygN49lthYwmC,71,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12599113,3Lqb2YQ5fD4w9atRo3CEJY,71,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:12577476,3YWrXYip94aBaDqiSFx5o_,71,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3515181,095F13Lo5DgQ_wApZOMSHV,70,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3412688,0CbLtd2f1EXvy4qsw1Z34$,70,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3412718,0CbLtd2f1EXvy4qsw1Z341,70,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3426494,0Km9QgkUj4Suq4NHKhFQDV,70,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:11892058,0_koDmhcbCJPzGx9ITK6KJ,70,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage PVC New:12776989,0im$V8ptHD8ATqCrIyVLqe,70,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3424211,0sRTT5cOf1ywrGy0YfphVA,70,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3407239,19tgmllKf0l8wknYzdCR0b,70,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3413956,2DRR6qssX5pQKPCcF$3cz0,70,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11734719,2ykjEHqsLAygN49lthYojG,70,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11738380,2ykjEHqsLAygN49lthYpZZ,70,no
+deviated,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11737434,2ykjEHqsLAygN49lthYpor,70,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12851500,3DquJpWhD7999Z0Y7atFOX,70,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12850932,3DquJpWhD7999Z0Y7atFdv,70,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3589304,3ZwXn8dd9AvumEkMqJNtER,70,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3589332,3ZwXn8dd9AvumEkMqJNtFt,70,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:7540292,0HPqbHT_jD3Q9ICHRlSgCW,70,no
+deviated,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9913445,09A9KbM9z4DOWIOWMUs4pD,69,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:14940292,1WFUflv2b6lupOeShwAHn8,69,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3415626,2DRR6qssX5pQKPCcF$3cRE,69,no
+deviated,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11726242,2ykjEHqsLAygN49lthYiXD,69,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11725816,2ykjEHqsLAygN49lthYiuN,69,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:11746419,2ykjEHqsLAygN49lthYncS,69,no
+deviated,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11771280,2ykjEHqsLAygN49lthYxX$,69,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:9885890,3v8neF4N15OvmngDfG0$rB,69,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11904025,3vx2sjlB12e8eOtQ9zjX3J,69,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:4173607,0R0DHe4dzFoQlypB8jMSzS,68,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage PVC New:12778456,0im$V8ptHD8ATqCrIyVL8Q,68,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3403074,1_XberoHPCOA7pqervehd7,68,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3403160,1_XberoHPCOA7pqervehaT,68,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3415366,2DRR6qssX5pQKPCcF$3cN2,68,no
+deviated,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11737448,2ykjEHqsLAygN49lthYpo7,68,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage PVC New:12776987,0im$V8ptHD8ATqCrIyVLrN,67,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3783406,1PoYFu5oj3oPQqJOSG5sPZ,67,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3419797,2hDUvQ0aL08h5aw6fqGtZC,67,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11725185,2ykjEHqsLAygN49lthYink,67,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11720900,2ykjEHqsLAygN49lthYlqh,67,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11734238,2ykjEHqsLAygN49lthYoan,67,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11766279,2ykjEHqsLAygN49lthYw$e,67,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9933145,3hUlq47ov9JO7vj3jEobhG,67,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:7540368,0HPqbHT_jD3Q9ICHRlSgFq,67,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3447314,1HJnIHFlPBpODPjT1Sc7nW,66,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:12571749,24UmJLTTX3ZgkuWiTk6Zxl,66,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11737429,2ykjEHqsLAygN49lthYpow,66,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:11752988,2ykjEHqsLAygN49lthYtFp,66,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12951053,3jJzijkbn6kfwxQE5iRAnn,66,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3782999,1PoYFu5oj3oPQqJOSG5sNQ,65,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3399585,2nLO9BJXv8u8tU2AWaS8_f,65,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:11734145,2ykjEHqsLAygN49lthYobk,65,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11771281,2ykjEHqsLAygN49lthYxX_,65,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:15572834,3Gzd_aAsL9WgUSHGHDwvnw,65,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:7540332,0HPqbHT_jD3Q9ICHRlSgC8,65,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12950945,3jJzijkbn6kfwxQE5iRA$T,65,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12952331,3ysqXPGlLFx9d0RDg9sv$w,65,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12980571,2jm$QdH6jAAR3G2EeiZHlp,65,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11725191,2ykjEHqsLAygN49lthYine,64,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11737443,2ykjEHqsLAygN49lthYpoC,64,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12850307,3DquJpWhD7999Z0Y7atFkE,64,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11905182,3vx2sjlB12e8eOtQ9zjXnK,64,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:7540394,0HPqbHT_jD3Q9ICHRlSgFE,64,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12999441,1HURQlRNj9vuvK6aQEgMM9,64,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3413449,0CbLtd2f1EXvy4qsw1Z3Oc,63,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12874487,25LZiN2Pz7BBAbb$fTBhom,63,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11762213,2ykjEHqsLAygN49lthYr$A,63,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11762841,2ykjEHqsLAygN49lthYrbs,63,no
+deviated,02,IfcPipeFitting,AGL_PipeFitting_3BossBranchSwept:Type 301:12776013,33zSm1_PH7nfs$_UYX0q28,63,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12598858,3Lqb2YQ5fD4w9atRo3CENX,63,no
+deviated,R2,IfcCovering,Beam Encasement L2:Beam Encasement L02:11468346,3YPFvxq1P9d9plfgYldHcD,63,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3408670,3v9xDUcE13reP5o14YYCVu,63,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12926514,3T3b$R6bHA0wAyiKGLM4Y3,63,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12952261,3jJzijkbn6kfwxQE5iR92v,63,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3426851,0Km9QgkUj4Suq4NHKhFQ72,62,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3446283,1HJnIHFlPBpODPjT1Sc71v,62,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3446279,1HJnIHFlPBpODPjT1Sc71r,62,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3469302,1MIrgYf4z6egbK3CLp$zoo,62,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:14940257,1WFUflv2b6lupOeShwAHoj,62,no
+deviated,01,IfcPipeSegment,Pipe Types:Steel Heating:13651831,2GOonHucLFHg7SewT2NCCF,62,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11727381,2ykjEHqsLAygN49lthYjVw,62,no
+deviated,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11737442,2ykjEHqsLAygN49lthYpoD,62,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11737503,2ykjEHqsLAygN49lthYpnm,62,no
+deviated,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11737502,2ykjEHqsLAygN49lthYpnn,62,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:11752957,2ykjEHqsLAygN49lthYt0I,62,no
+deviated,02,IfcPipeFitting,AGL_PipeFitting_3BossBranchSwept:Type 301:12775995,33zSm1_PH7nfs$_UYX0q1e,62,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Elbow No 10-13:Standard:3589326,3ZwXn8dd9AvumEkMqJNtFj,62,no
+deviated,02,IfcWall,Basic Wall:IW31_0dB_100mm:2197141,3gGebkJBL4TBeKAv$KzYp6,62,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3408817,3v9xDUcE13reP5o14YYCTN,62,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:12595316,09CPzvvfjD6x4kusBOud3k,61,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3414844,2DRR6qssX5pQKPCcF$3cEu,61,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11762763,2ykjEHqsLAygN49lthYrca,61,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:11752993,2ykjEHqsLAygN49lthYtFE,61,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage PVC New:12775992,33zSm1_PH7nfs$_UYX0q1I,61,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12598740,3Lqb2YQ5fD4w9atRo3CEP$,61,no
+deviated,02,IfcWall,Basic Wall:IW01_40dB_102mm:1175533,3RkHgAvGj8oR7ad60KgCIc,61,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11904027,3vx2sjlB12e8eOtQ9zjX3H,61,no
+deviated,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3785770,00JWife956PxKDBC3Ttzg2,60,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11907727,0fvBoMkUT5LvjDc8OGRtq4,60,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Elbow No 10-13:Standard:3416524,12tS2p7$5BZgMZXmZGvzuZ,60,no
+deviated,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3406955,19tgmllKf0l8wknYzdCR79,60,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3407260,19tgmllKf0l8wknYzdCR0_,60,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:14979434,2icp3$GgbDC8IN1te$SliZ,60,no
+deviated,02,IfcWall,Basic Wall:IW02_48dB_102mm:1612987,2jXOdJn4n9Uhfmz6d_NgSr,60,no
+deviated,R2,IfcCovering,Beam Encasement 2 L02:Beam Encasement 2 L02:11461280,2t6SFspxj79ARYUyMPsfwx,60,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11726234,2ykjEHqsLAygN49lthYiXr,60,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:11734053,2ykjEHqsLAygN49lthYodA,60,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage PVC New:11779910,2ykjEHqsLAygN49lthYvgf,60,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3449595,3LRPnSmq1CIuFl6_BL4EKW,60,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:12577561,3YWrXYip94aBaDqiSFx5yQ,60,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3589465,3ZwXn8dd9AvumEkMqJNt9w,60,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Elbow No 10-13:Standard:3589302,3ZwXn8dd9AvumEkMqJNtEL,60,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9930731,3hUlq47ov9JO7vj3jEoanY,60,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3408640,3v9xDUcE13reP5o14YYCVc,60,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:12595326,09CPzvvfjD6x4kusBOudFY,59,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11907678,0fvBoMkUT5LvjDc8OGRttL,59,no
+verified,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11737547,2ykjEHqsLAygN49lthYpma,59,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Gas:11753500,2ykjEHqsLAygN49lthYttp,59,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12598907,3Lqb2YQ5fD4w9atRo3CENG,59,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12598645,3Lqb2YQ5fD4w9atRo3CERU,59,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3424886,0sRTT5cOf1ywrGy0Yfpifl,58,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3406712,19tgmllKf0l8wknYzdCRRQ,58,no
+deviated,02,IfcWall,Basic Wall:IW01_0dB_102mm:1925643,1Zq2Szuvb8OPWZLG2qIWPQ,58,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:4170691,1gkfKAqW99YvNUWc3QeVKw,58,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12874510,25LZiN2Pz7BBAbb$fTBhv8,58,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:9897180,2h_VAJupH4wguB1M12jRU9,58,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:11734049,2ykjEHqsLAygN49lthYodE,58,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11737455,2ykjEHqsLAygN49lthYpo0,58,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9931817,3hUlq47ov9JO7vj3jEoaUW,58,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:13000719,0IMCcBHP1DyPWvpcolPT1T,58,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:4173654,0R0DHe4dzFoQlypB8jMSyj,57,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Gas:11892525,0_koDmhcbCJPzGx9ITK6Ta,57,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11881370,0wWp4hodTFJ98H8qxOW41L,57,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3402988,1_XberoHPCOA7pqervehXf,57,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Salamandre_Distribution_Trunking-Traditional_IP30-Pre_Galvanised_Steel-Gusset:12708716,2GJYeiVFr80xeIGkK75Ept,57,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11762935,2ykjEHqsLAygN49lthYraO,57,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11762531,2ykjEHqsLAygN49lthYrwC,57,no
+deviated,02,IfcDuctFitting,Duct Branch -Round Shoe Branch - Slip Joint:Standard:11766281,2ykjEHqsLAygN49lthYw$c,57,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11766257,2ykjEHqsLAygN49lthYwmU,57,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3449586,3LRPnSmq1CIuFl6_BL4EKf,57,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12598991,3Lqb2YQ5fD4w9atRo3CELa,57,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9931705,3hUlq47ov9JO7vj3jEoa0m,57,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:12832766,06KYouS$X9_xK_q1e$H419,56,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3418792,2hDUvQ0aL08h5aw6fqGtpn,56,no
+deviated,02,IfcDuctFitting,Duct Bend - Round Pressed Bend - Slip Joint:Medium Radius:11726252,2ykjEHqsLAygN49lthYiX3,56,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11734657,2ykjEHqsLAygN49lthYojk,56,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11762843,2ykjEHqsLAygN49lthYrbq,56,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12849762,3DquJpWhD7999Z0Y7atFrl,56,no
+deviated,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9913971,3ZMdLyTJjE5hexaEdLQFWa,56,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3428868,3sMlup5iT1P8XpXPhfpxUG,56,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3408530,3v9xDUcE13reP5o14YYCPq,56,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12996571,1HURQlRNj9vuvK6aQEgN53,56,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11946727,0G$bj1iW549v1vMgJVCVq2,55,no
+deviated,02,IfcCovering,Beam Encasement L02 G3:Beam Encasement L02 G1:11459346,0HLB_bP8nBI8puo_0uAqLP,55,no
+deviated,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9506489,0hwo3sCQr69gas$RCmKJr6,55,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3424228,0sRTT5cOf1ywrGy0YfphVz,55,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3417813,12tS2p7$5BZgMZXmZGvzaw,55,no
+deviated,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3402986,1_XberoHPCOA7pqervehXl,55,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3421973,1eEuhQwwvB6ftVAvrpgwaw,55,no
+verified,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11737454,2ykjEHqsLAygN49lthYpo1,55,no
+deviated,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12598705,3Lqb2YQ5fD4w9atRo3CEOQ,55,no
+deviated,R2,IfcCovering,Beam Encasement L16:Beam Encasement L02:11495710,3f_HI3dBD0YOtWuvlO9OXi,55,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9932711,3hUlq47ov9JO7vj3jEoaGk,55,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9932111,3hUlq47ov9JO7vj3jEoaR6,55,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:4173657,0R0DHe4dzFoQlypB8jMSyY,54,no
+deviated,02,IfcPipeFitting,Elbow - Plain - PVC-C:Standard:12576572,1haLSL37T2ThKMH9cdbG7W,54,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11734663,2ykjEHqsLAygN49lthYoje,54,no
+deviated,02,IfcDuctFitting,Duct Branch -Round Shoe Branch - Slip Joint:Standard:11738370,2ykjEHqsLAygN49lthYpZj,54,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11738384,2ykjEHqsLAygN49lthYpZ$,54,no
+deviated,02,IfcDuctFitting,Duct Branch -Round Shoe Branch - Slip Joint:Standard:11738392,2ykjEHqsLAygN49lthYpZt,54,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11905403,3vx2sjlB12e8eOtQ9zjXsn,54,no
+deviated,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:4173656,0R0DHe4dzFoQlypB8jMSyZ,53,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3406956,19tgmllKf0l8wknYzdCR7E,53,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402658,1_XberoHPCOA7pqervehyd,53,no
+deviated,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621642,1hTcLxPi17kg6dKCP9_LGP,53,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12576195,1haLSL37T2ThKMH9cdbGCV,53,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:12707771,2GJYeiVFr80xeIGkK75Dau,53,no
+deviated,02,IfcWall,Basic Wall:IW01_40dB_102mm:1956021,2g5G4JcSzFTuUPJzeiSDyK,53,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11725819,2ykjEHqsLAygN49lthYiuK,53,no
+deviated,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:11729234,2ykjEHqsLAygN49lthYjoz,53,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11737413,2ykjEHqsLAygN49lthYpog,53,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11737408,2ykjEHqsLAygN49lthYpol,53,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11760698,2ykjEHqsLAygN49lthYr7L,53,no
+deviated,02,IfcPipeSegment,Pipe Types:Copper Domestics:11752841,2ykjEHqsLAygN49lthYt1c,53,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9931781,3hUlq47ov9JO7vj3jEoaUC,53,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3413183,0CbLtd2f1EXvy4qsw1Z3TG,52,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3426733,0Km9QgkUj4Suq4NHKhFQ9C,52,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3426730,0Km9QgkUj4Suq4NHKhFQ9B,52,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3425958,0Km9QgkUj4Suq4NHKhFQr7,52,no
+deviated,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9507076,0hwo3sCQr69gas$RCmKIBx,52,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3417852,12tS2p7$5BZgMZXmZGvzaJ,52,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3407698,19tgmllKf0l8wknYzdCRBm,52,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3782979,1PoYFu5oj3oPQqJOSG5sNE,52,no
+verified,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11725821,2ykjEHqsLAygN49lthYiuI,52,no
+deviated,02,IfcPipeFitting,Cross - Plain - PVC-C:Standard:11729813,2ykjEHqsLAygN49lthYjvw,52,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11762937,2ykjEHqsLAygN49lthYraM,52,no
+deviated,02,IfcPipeSegment,Pipe Types:Steel Heating:11762765,2ykjEHqsLAygN49lthYrcY,52,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3785005,3K5Em3PkvFn9aTtfZxKnrU,52,no
+deviated,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9932026,3hUlq47ov9JO7vj3jEoaTp,52,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12916720,12Rfi4WkL2u9TSlWeFfx6c,52,no
+deviated,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12977530,0fT4xIU7XFkh5FFZQhVAdH,52,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3418463,12tS2p7$5BZgMZXmZGvzQm,51,no
+deviated,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3411803,2VW8oDMSfE2RAKx$0Ht2$s,51,no
+deviated,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11737513,2ykjEHqsLAygN49lthYpn6,51,no
+deviated,02,IfcDuctSegment,Round Duct:Segmented Bend - Slip Joint:11766247,2ykjEHqsLAygN49lthYwm8,51,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):5966246,0Bc6ANXWbDVuS9PcGppShZ,50,no
+verified,02,IfcCovering,Basic Wall:W2.1_a Hygienic Panel white:11707929,0IF73cW7L6IuviWsauL8AS,50,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3427104,0Km9QgkUj4Suq4NHKhFQ31,50,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:4172746,0R0DHe4dzFoQlypB8jMSkn,50,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:4172752,0R0DHe4dzFoQlypB8jMSkh,50,no
+verified,02,IfcPipeFitting,AGL_PipeFitting_3BossBranchSwept:Type 301:12781829,0im$V8ptHD8ATqCrIyVA37,50,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3424245,0sRTT5cOf1ywrGy0YfphVi,50,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3425366,0sRTT5cOf1ywrGy0YfpinF,50,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3417426,12tS2p7$5BZgMZXmZGvzgz,50,no
+verified,02,IfcWall,Basic Wall:IW01_0dB_102mm:1990132,1NnGh6nM57khvEcNsAUhiM,50,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402589,1_XberoHPCOA7pqerveh$O,50,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402671,1_XberoHPCOA7pqervehyg,50,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3421296,1eEuhQwwvB6ftVAvrpgwfV,50,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9510342,2dFQ8D9_z8zxGmZ95px5IR,50,no
+verified,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11763866,2ykjEHqsLAygN49lthYwLr,50,no
+verified,02,IfcDuctFitting,Duct Branch -Round Shoe Branch - Slip Joint:Standard:11766249,2ykjEHqsLAygN49lthYwm6,50,no
+verified,02,IfcCovering,Basic Wall:W2.1_a Hygienic Panel white:11702975,32zfhM4EP98uW0cmPF8SOd,50,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:4602069,3BjGfF3cP4HeBSbH3YL2$T,50,no
+verified,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12598933,3Lqb2YQ5fD4w9atRo3CEK_,50,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910350,09A9KbM9z4DOWIOWMUs33c,49,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9912526,09A9KbM9z4DOWIOWMUs4Xc,49,no
+verified,02,IfcDistributionElement,ESG_ELEQ__DistributionBoard-SEA9BN12&SEA9BNEX034N:Type 201:13292111,0JxgUSyRnAvByGqHAu9LBw,49,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12856489,1MDuVn0_HE_x0M4pWeckHE,49,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12854579,1MDuVn0_HE_x0M4pWecktK,49,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12855278,1MDuVn0_HE_x0M4pWecky9,49,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3782787,1PoYFu5oj3oPQqJOSG5sGE,49,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3784127,1PoYFu5oj3oPQqJOSG5s4o,49,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402577,1_XberoHPCOA7pqerveh$K,49,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402570,1_XberoHPCOA7pqerveh$F,49,no
+verified,02,IfcPipeFitting,Elbow - Plain - PVC-C:Standard:12577040,1haLSL37T2ThKMH9cdbG$C,49,no
+deviated,02,IfcWall,Basic Wall:IW03_53dB_122mm:4660588,2r5lT3Ea11Meh7C3$Td1HX,49,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11734715,2ykjEHqsLAygN49lthYojK,49,no
+verified,02,IfcWall,Basic Wall:IW31_0dB_100mm:1778058,39xFYEXeX3pPgS_NpJC6gG,49,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:8552526,3WTJcUwMb87fZ1dRyrUEE_,49,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:12832015,06KYouS$X9_xK_q1e$H4Au,48,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12220700,07EMyMNWX41AY133KqZxkj,48,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9912524,09A9KbM9z4DOWIOWMUs4Xa,48,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3515693,0BuDIyh1HCkf5$bjwGE4AF,48,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:4172743,0R0DHe4dzFoQlypB8jMSky,48,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9903782,0TN6Y8EOf2tAg0AQGncXSD,48,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3424880,0sRTT5cOf1ywrGy0Yfpiff,48,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3454435,1CxA9g4bfD3fpda9tF8bCV,48,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3782632,1PoYFu5oj3oPQqJOSG5sjb,48,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402594,1_XberoHPCOA7pqerveh$d,48,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402622,1_XberoHPCOA7pqerveh$x,48,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3402974,1_XberoHPCOA7pqervehXR,48,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1955972,2g5G4JcSzFTuUPJzeiSDyb,48,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400631,2nLO9BJXv8u8tU2AWaSBE$,48,no
+verified,02,IfcCableSegment,Cable Tray with Fittings:08 - LV:11720881,2ykjEHqsLAygN49lthYlrU,48,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:11777547,2ykjEHqsLAygN49lthYvFa,48,no
+verified,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12598724,3Lqb2YQ5fD4w9atRo3CEPl,48,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9914535,3ZMdLyTJjE5hexaEdLQFRm,48,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3589300,3ZwXn8dd9AvumEkMqJNtEN,48,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12982551,1Ls9KWAmf24OC$gmmVTb1q,48,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9911961,09A9KbM9z4DOWIOWMUs3On,47,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3424772,0sRTT5cOf1ywrGy0YfpieT,47,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3416843,12tS2p7$5BZgMZXmZGvzpa,47,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3784249,1PoYFu5oj3oPQqJOSG5sAq,47,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3782988,1PoYFu5oj3oPQqJOSG5sN1,47,no
+verified,02,IfcPipeFitting,Elbow - Plain - PVC-C:Standard:12576863,1haLSL37T2ThKMH9cdbGw3,47,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11874677,2$RCQmBAPAofgngZDZ8sBH,47,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3413690,2DRR6qssX5pQKPCcF$3cu_,47,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9510626,2dFQ8D9_z8zxGmZ95px5U$,47,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1955714,2g5G4JcSzFTuUPJzeiSD0Z,47,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:3702312,2jXTuW3KH3u90LiEzJzQWs,47,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400626,2nLO9BJXv8u8tU2AWaSBEw,47,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11742684,2ykjEHqsLAygN49lthYmWp,47,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9931599,3hUlq47ov9JO7vj3jEoa36,47,no
+verified,02,IfcCableCarrierFitting,TR - Electrical Trunking Square Tee:Electrical:9930484,3hUlq47ov9JO7vj3jEoarz,47,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:12221056,07EMyMNWX41AY133KqZxLT,46,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402113,0KqpSkma91KQQW4BoaramO,46,no
+verified,02,IfcDistributionElement,ESG_ELEQ__DistributionBoard-SEA9BN12:ESG_ELEQ_SEA9BN12:13888961,1ZI4oHyFTDgAGx88jUQZ0G,46,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3403024,1_XberoHPCOA7pqervehcL,46,no
+verified,R2,IfcCovering,Beam Encasement L9:Beam Encasement L02:11485326,1hJ8veFbX72ewC7y9U1ZkR,46,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12576058,1haLSL37T2ThKMH9cdbGFc,46,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:13652368,2GOonHucLFHg7SewT2NDte,46,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3419456,2hDUvQ0aL08h5aw6fqGtiP,46,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400618,2nLO9BJXv8u8tU2AWaSBEY,46,no
+verified,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11734866,2ykjEHqsLAygN49lthYogz,46,no
+verified,R2,IfcCovering,Grid E L02 Beam Encasement7:Grid E L02 Beam Encasement:11471134,38LejoB_5Ctw$bffMRG426,46,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9930365,3hUlq47ov9JO7vj3jEoatq,46,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9928076,3hUlq47ov9JO7vj3jEohO5,46,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8552944,3ofPGJu0f7Mu78KYE14BTl,46,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910408,09A9KbM9z4DOWIOWMUs30W,45,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910300,09A9KbM9z4DOWIOWMUs32q,45,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909728,09A9KbM9z4DOWIOWMUs3r8,45,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909764,09A9KbM9z4DOWIOWMUs3wi,45,no
+deviated,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909991,09A9KbM9z4DOWIOWMUs3vF,45,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:12595350,09CPzvvfjD6x4kusBOudC9,45,no
+verified,02,IfcDistributionElement,ESG_ELEQ__DistributionBoard-SEA9BN12:ESG_ELEQ_SEA9BN12:13292093,0JxgUSyRnAvByGqHAu9LBa,45,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1815650,129rBOvGT6ixA7T37uV9Ii,45,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3407024,19tgmllKf0l8wknYzdCR4I,45,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3407640,19tgmllKf0l8wknYzdCRAw,45,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:10299905,1BJJA4NqnBhRCgWnC5ozMm,45,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12855048,1MDuVn0_HE_x0M4pWeck$l,45,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12854561,1MDuVn0_HE_x0M4pWeckt6,45,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402616,1_XberoHPCOA7pqerveh$z,45,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3420265,1eEuhQwwvB6ftVAvrpgwv6,45,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9486408,2$EgfGQx9CjxazA1ljmCVu,45,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11874779,2$RCQmBAPAofgngZDZ8s9$,45,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:7733197,2QZV4WqUn6TeQFyls0sXsr,45,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9510992,2dFQ8D9_z8zxGmZ95px6aD,45,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1956919,2g5G4JcSzFTuUPJzeiSDkM,45,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9905264,2nv4S3pV18axbev$X4qhJN,45,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:11718672,2ykjEHqsLAygN49lthYlN$,45,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11734723,2ykjEHqsLAygN49lthYoii,45,no
+verified,02,IfcPipeFitting,Cross - Plain - PVC-C:Standard:11752753,2ykjEHqsLAygN49lthYt3U,45,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Gas:11752385,2ykjEHqsLAygN49lthYtOk,45,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3449373,3LRPnSmq1CIuFl6_BL4EN6,45,no
+verified,02,IfcElementAssembly,ESG_GenericModels_Typical Corridor Frame:Typical Corridor Frame:12598949,3Lqb2YQ5fD4w9atRo3CEKE,45,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3589497,3ZwXn8dd9AvumEkMqJNt9Q,45,no
+verified,02,IfcWall,Basic Wall:IW06_40dB_265mm:10374563,3c8EnNVPvBaPamaYlsjTRG,45,no
+verified,02,IfcWall,Basic Wall:EWO - Roof insulated upstand 379:7390539,3l8TQfWsLDxQJQdlbOPz7i,45,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3786974,00JWife956PxKDBC3TtzPs,44,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3785735,00JWife956PxKDBC3Ttzgl,44,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:12831583,06KYouS$X9_xK_q1e$H4Je,44,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9912150,09A9KbM9z4DOWIOWMUs3V_,44,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910219,09A9KbM9z4DOWIOWMUs3zZ,44,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402580,1_XberoHPCOA7pqerveh$H,44,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402954,1_XberoHPCOA7pqervehXF,44,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3402598,1_XberoHPCOA7pqerveh$Z,44,no
+verified,02,IfcWall,Basic Wall:IW06_53dB_230mm:3335123,2GqQKDBBH4Rh3b_4rBQVpd,44,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9511276,2dFQ8D9_z8zxGmZ95px6Wn,44,no
+verified,02,IfcDuctSegment,Rectangular Duct:Radius Bend - Slip Joint:11760362,2ykjEHqsLAygN49lthYrS5,44,no
+verified,02,IfcWall,Basic Wall:EWI01 - Inner leaf:983258,32XD08rvLBk8syab24qKQp,44,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:13983297,3P9RYkyT56neztq0AVDCFH,44,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9931455,3hUlq47ov9JO7vj3jEoa4s,44,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9932267,3hUlq47ov9JO7vj3jEoaPY,44,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9929011,3hUlq47ov9JO7vj3jEoagw,44,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3408548,3v9xDUcE13reP5o14YYCP2,44,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3785748,00JWife956PxKDBC3Ttzgy,43,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Gas:11885295,02kopIvPbFtxB8$ajbvdFe,43,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910386,09A9KbM9z4DOWIOWMUs33Q,43,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910366,09A9KbM9z4DOWIOWMUs33s,43,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9911963,09A9KbM9z4DOWIOWMUs3Op,43,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3424935,0sRTT5cOf1ywrGy0Yfpig_,43,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3425560,0sRTT5cOf1ywrGy0Yfpiq1,43,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3424771,0sRTT5cOf1ywrGy0YfpieQ,43,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3782797,1PoYFu5oj3oPQqJOSG5sG0,43,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402975,1_XberoHPCOA7pqervehXQ,43,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3403607,1_XberoHPCOA7pqervehlI,43,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:13437277,2Sycqqmqn09hAlRUzKU6w6,43,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Elbow No 10-13:Standard:3595168,2_e8Z9Tmf2e8Kn62dEctT5,43,no
+verified,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11738367,2ykjEHqsLAygN49lthYpaG,43,no
+verified,02,IfcDuctSegment,Rectangular Duct:Salamandre_Distribution_Trunking-Traditional_IP30-Pre_Galvanised_Steel-Gusset:9930760,3hUlq47ov9JO7vj3jEoaE1,43,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3408544,3v9xDUcE13reP5o14YYCP6,43,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3785910,00JWife956PxKDBC3TtzeU,42,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909648,09A9KbM9z4DOWIOWMUs3qu,42,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909781,09A9KbM9z4DOWIOWMUs3wz,42,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909962,09A9KbM9z4DOWIOWMUs3vY,42,no
+verified,02,IfcDistributionElement,ESG_ELEQ__DistributionBoard-SEA9BN12&SEA9BNEX034N:Type 201:13292091,0JxgUSyRnAvByGqHAu9LBc,42,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:9585447,0hxU0p_Db3jvEQNHUYGkGY,42,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3416852,12tS2p7$5BZgMZXmZGvzpx,42,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3407929,19tgmllKf0l8wknYzdDasR,42,no
+verified,02,IfcCovering,Grid E L02 Beam Encasement20:Grid E L02 Beam Encasement:11474844,1N7$nmQgzF2AfgrchAd5dx,42,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3402982,1_XberoHPCOA7pqervehXZ,42,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3403542,1_XberoHPCOA7pqervehkJ,42,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402666,1_XberoHPCOA7pqervehyl,42,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:7733195,2QZV4WqUn6TeQFyls0sXsp,42,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11782452,2ykjEHqsLAygN49lthY_pR,42,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:8552603,3WTJcUwMb87fZ1dRyrUEDh,42,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9931421,3hUlq47ov9JO7vj3jEoa4K,42,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12952448,3ysqXPGlLFx9d0RDg9svzn,42,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12971033,1b7nc$_qn6AO2Up$EBfypX,42,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:9518149,03XHmPM8T7WxDaV6bxEgFO,41,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910476,09A9KbM9z4DOWIOWMUs31a,41,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910284,09A9KbM9z4DOWIOWMUs32a,41,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909929,09A9KbM9z4DOWIOWMUs3u1,41,no
+verified,01,IfcPipeSegment,Pipe Types:Steel Heating:13894057,0sBRzbq6H56woSNtS1CjoE,41,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3424927,0sRTT5cOf1ywrGy0Yfpig6,41,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3425518,0sRTT5cOf1ywrGy0Yfpipt,41,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400911,0w1swDUmP99xz5zcYLshcJ,41,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3403474,1_XberoHPCOA7pqervehfN,41,no
+verified,R2,IfcCovering,Beam Encasement L3:Beam Encasement L02:11483222,1rO4NmWoHFneHavzqwB_0j,41,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3595170,2_e8Z9Tmf2e8Kn62dEctT7,41,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:3702318,2jXTuW3KH3u90LiEzJzQkO,41,no
+verified,02,IfcDuctSilencer,ESG_DuctAccessories_RectangularFireDamper:Dry Wall - Pre-installed:11727368,2ykjEHqsLAygN49lthYjVd,41,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:10869149,399DNKJhP5FBf2_lLfJeZ3,41,no
+verified,02,IfcPipeSegment,Pipe Types:Victaulic-IPS TAP:4069075,3EDNA5mS55_AKF60nW9$od,41,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9932840,3hUlq47ov9JO7vj3jEobkX,41,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3785742,00JWife956PxKDBC3Ttzgc,40,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910187,09A9KbM9z4DOWIOWMUs3y3,40,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3450711,0gYHJIih1AVe7ivnxSKOnW,40,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3424802,0sRTT5cOf1ywrGy0Yfpiex,40,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:12734286,1$aS34i3T4s8aR3dWxQGdy,40,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3415712,12tS2p7$5BZgMZXmZGv_5F,40,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3403573,1_XberoHPCOA7pqervehkm,40,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:4170732,1gkfKAqW99YvNUWc3QeVKL,40,no
+verified,02,IfcPipeFitting,Elbow - Plain - PVC-C:Standard:12575365,1haLSL37T2ThKMH9cdbGHP,40,no
+verified,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11727378,2ykjEHqsLAygN49lthYjVz,40,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9930531,3hUlq47ov9JO7vj3jEoaog,40,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:13442948,3s6fxzzk9AIwGs8nLLWUbU,40,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12953962,3F8elRFCfEl9f0qrWHV$nX,40,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3785725,00JWife956PxKDBC3TtzrL,39,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910614,09A9KbM9z4DOWIOWMUs37_,39,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910543,09A9KbM9z4DOWIOWMUs36d,39,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909944,09A9KbM9z4DOWIOWMUs3uG,39,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910270,09A9KbM9z4DOWIOWMUs3zM,39,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401732,0KqpSkma91KQQW4BoarasT,39,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3425592,0sRTT5cOf1ywrGy0YfpiqX,39,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3421818,1eEuhQwwvB6ftVAvrpgwXL,39,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:4889080,2sYPJ_REfBcvfpFGINshZY,39,no
+verified,02,IfcPipeFitting,Cross - Plain - PVC-C:Standard:11718674,2ykjEHqsLAygN49lthYlNz,39,no
+verified,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11737416,2ykjEHqsLAygN49lthYpod,39,no
+verified,02,IfcWall,Basic Wall:EWI01 - Inner leaf:1169691,3RkHgAvGj8oR7ad60KgF9G,39,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12993167,2t2HuskvLFx85KpPsynaL_,39,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909663,09A9KbM9z4DOWIOWMUs3qt,38,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909128,09A9KbM9z4DOWIOWMUs3iW,38,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):5966247,0Bc6ANXWbDVuS9PcGppShY,38,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8554045,0ERLmo4C17QhMZisAdvnrn,38,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401720,0KqpSkma91KQQW4Boara9X,38,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401737,0KqpSkma91KQQW4BoarasG,38,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402478,0KqpSkma91KQQW4Boarazt,38,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9903770,0TN6Y8EOf2tAg0AQGncXSn,38,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3415727,12tS2p7$5BZgMZXmZGv_50,38,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3416787,12tS2p7$5BZgMZXmZGvzqy,38,no
+verified,02,IfcCovering,Beam Encasement L22:Beam Encasement L02:11498270,1I624OpcnAbPeRkZBwtLDC,38,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3783001,1PoYFu5oj3oPQqJOSG5sNK,38,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3420736,1eEuhQwwvB6ftVAvrpgwnl,38,no
+verified,02,IfcCovering,Beam Encasement L8:Beam Encasement L02:11484598,1rO4NmWoHFneHavzqwB_ND,38,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11725162,2ykjEHqsLAygN49lthYio5,38,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11760464,2ykjEHqsLAygN49lthYrQ$,38,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage PVC New:12776027,33zSm1_PH7nfs$_UYX0q7b,38,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:8552602,3WTJcUwMb87fZ1dRyrUEDg,38,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9914435,3ZMdLyTJjE5hexaEdLQFOK,38,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:13000529,0IMCcBHP1DyPWvpcolPUy3,38,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910494,09A9KbM9z4DOWIOWMUs31s,37,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909126,09A9KbM9z4DOWIOWMUs3ik,37,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909463,09A9KbM9z4DOWIOWMUs3n$,37,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909461,09A9KbM9z4DOWIOWMUs3nz,37,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909632,09A9KbM9z4DOWIOWMUs3qe,37,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553988,0ERLmo4C17QhMZisAdvnr8,37,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9903776,0TN6Y8EOf2tAg0AQGncXSB,37,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3425364,0sRTT5cOf1ywrGy0YfpinD,37,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3415953,12tS2p7$5BZgMZXmZGv_1_,37,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3447514,1HJnIHFlPBpODPjT1Sc7oe,37,no
+verified,01,IfcRoof,Basic Roof:R004 - Green Roof:5183580,1PqCp3GbLFWfxh2tExt0Ty,37,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3403290,1_XberoHPCOA7pqervehgV,37,no
+verified,02,IfcPipeFitting,Elbow - Plain - PVC-C:Standard:12575376,1haLSL37T2ThKMH9cdbGHC,37,no
+verified,Undefined,IfcBeam,BEAM,2E0gqp0CX1lObGMyNWKCl0,37,no
+verified,02,IfcDuctSegment,Rectangular Duct:Salamandre_Distribution_Trunking-Traditional_IP30-Pre_Galvanised_Steel-Gusset:12708707,2GJYeiVFr80xeIGkK75Esi,37,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3419480,2hDUvQ0aL08h5aw6fqGti1,37,no
+verified,02,IfcBuildingElementProxy,90 ShortRadiusBends 2 in Deep:Default:9905695,2nv4S3pV18axbev$X4qhQu,37,no
+verified,00,IfcWall,Basic Wall:EWI02d - Inner leaf - reduced by 25mm:981019,32XD08rvLBk8syab24qBvo,37,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9914151,3ZMdLyTJjE5hexaEdLQFbm,37,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9903791,0TN6Y8EOf2tAg0AQGncXS4,36,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3425486,0sRTT5cOf1ywrGy0YfpipN,36,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3415695,12tS2p7$5BZgMZXmZGv_5W,36,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3406842,19tgmllKf0l8wknYzdCRPO,36,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3447517,1HJnIHFlPBpODPjT1Sc7ol,36,no
+verified,02,IfcWall,Basic Wall:Cubicle - colour 10 Oak:9382809,29qPakIjbDkwWNG_k6cRNk,36,no
+verified,02,IfcCableCarrierSegment,Legrand-Salamandre_Dist_Trunking-Standard_IP30-Tee_Gusset-13:Pre-Galvanised:12708706,2GJYeiVFr80xeIGkK75Esj,36,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9508623,2dFQ8D9_z8zxGmZ95px5vI,36,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3449571,3LRPnSmq1CIuFl6_BL4EKu,36,no
+verified,00,IfcWall,Basic Wall:EWI01 - Inner leaf:7725244,3s5GNblzDD5fQfONziLofa,36,no
+verified,00,IfcWall,Basic Wall:EWI02d - Inner leaf - reduced by 25mm:7722893,3s5GNblzDD5fQfONziLnrL,36,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12926486,3T3b$R6bHA0wAyiKGLM4Sb,36,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3786920,00JWife956PxKDBC3TtzO0,35,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910523,09A9KbM9z4DOWIOWMUs31J,35,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910555,09A9KbM9z4DOWIOWMUs36p,35,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909590,09A9KbM9z4DOWIOWMUs3t_,35,no
+verified,Undefined,IfcBeam,BEAM,0AG24gIQHBmexEX76aPIqp,35,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3425862,0Km9QgkUj4Suq4NHKhFQsd,35,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9922601,0dBOxa$ULCxu_gELY9GFJU,35,no
+verified,02,IfcCovering,Compound Ceiling:AHR_LN30 beam encasement:9506262,0hwo3sCQr69gas$RCmKJuf,35,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3424069,0sRTT5cOf1ywrGy0YfphTS,35,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3416940,12tS2p7$5BZgMZXmZGvzo3,35,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Elbow No 10-13:Standard:3396956,1SYnl9GW540gIIHQnkr1JA,35,no
+verified,Undefined,IfcBeam,BEAM,1XpZn8qEnCnB2OHYA01XQA,35,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3403316,1_XberoHPCOA7pqervehgn,35,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3420746,1eEuhQwwvB6ftVAvrpgwnb,35,no
+verified,02,IfcPipeFitting,Elbow - Plain - PVC-C:Standard:12575719,1haLSL37T2ThKMH9cdbGKx,35,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12581836,2OMiWyGzj4guk$OK3eunSG,35,no
+verified,02,IfcPipeFitting,Socket Reducing - Threaded - MI:Standard:3419462,2hDUvQ0aL08h5aw6fqGtiV,35,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3419435,2hDUvQ0aL08h5aw6fqGtjo,35,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9905588,2nv4S3pV18axbev$X4qhKJ,35,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9905381,2nv4S3pV18axbev$X4qhH2,35,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11725164,2ykjEHqsLAygN49lthYio3,35,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:11729811,2ykjEHqsLAygN49lthYjvy,35,no
+verified,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11734869,2ykjEHqsLAygN49lthYogw,35,no
+verified,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11737421,2ykjEHqsLAygN49lthYpoY,35,no
+verified,02,IfcCovering,Beam Encasement L02 Grid F:Beam Encasement L02 Grid F:11495386,33g_AG05b9sw7h4GMaapTX,35,no
+verified,02,IfcCovering,Beam Encasement L02 Grid F1:Beam Encasement L02 Grid F:11495410,33g_AG05b9sw7h4GMaapT9,35,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3946873,3H41zfQW90kwikyeSKSxZt,35,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3449237,3LRPnSmq1CIuFl6_BL4EPE,35,no
+verified,02,IfcWall,Basic Wall:IW02_48dB_102mm:1174040,3RkHgAvGj8oR7ad60KgC5J,35,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:8552604,3WTJcUwMb87fZ1dRyrUEDi,35,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9914319,3ZMdLyTJjE5hexaEdLQFcO,35,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9914321,3ZMdLyTJjE5hexaEdLQFc6,35,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:13643443,3_AiJ21GD0Kf8S_Svl6d3H,35,no
+verified,00,IfcWall,Basic Wall:EWI02d - Inner leaf - reduced by 25mm:7722657,3s5GNblzDD5fQfONziLnnv,35,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12958487,0Raz0Uwr540RGuIYlypVG4,35,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3786839,00JWife956PxKDBC3TtzR$,34,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910574,09A9KbM9z4DOWIOWMUs366,34,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3426312,0Km9QgkUj4Suq4NHKhFQFf,34,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3425955,0Km9QgkUj4Suq4NHKhFQr2,34,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402253,0KqpSkma91KQQW4Boara_K,34,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3424636,0sRTT5cOf1ywrGy0Yfpibb,34,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400916,0w1swDUmP99xz5zcYLshc8,34,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3446357,1HJnIHFlPBpODPjT1Sc70d,34,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3446361,1HJnIHFlPBpODPjT1Sc70h,34,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3403574,1_XberoHPCOA7pqervehkp,34,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12575700,1haLSL37T2ThKMH9cdbGK8,34,no
+verified,02,IfcCableCarrierSegment,Legrand-Salamandre_Dist_Trunking-Standard_IP30-Tee_Gusset-13:Pre-Galvanised:12582349,1oBjXTqX10IgzpSiG8P0To,34,no
+verified,Undefined,IfcBeam,BEAM,1rT9DCXWf6HB6OLM$EzMxw,34,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:9494652,2OGNb62BX2IfI4ZqWtq1Hw,34,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:9494252,2OGNb62BX2IfI4ZqWtq2hg,34,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3399590,2nLO9BJXv8u8tU2AWaS8_k,34,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9905479,2nv4S3pV18axbev$X4qhNW,34,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:4889084,2sYPJ_REfBcvfpFGINshZk,34,no
+verified,02,IfcDuctFitting,Duct Branch -Round Shoe Branch - Slip Joint:Standard:11725803,2ykjEHqsLAygN49lthYiu4,34,no
+verified,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11725818,2ykjEHqsLAygN49lthYiuL,34,no
+verified,02,IfcPipeFitting,Bush Reducing - Plain - PVC-C:Standard:12776008,33zSm1_PH7nfs$_UYX0q30,34,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3449598,3LRPnSmq1CIuFl6_BL4EKb,34,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1174993,3RkHgAvGj8oR7ad60KgCQQ,34,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:6105527,3SmOzqcVL3F9SokQCL5Ggf,34,no
+verified,02,IfcCovering,Grid E L02 Beam Encasement13:Grid E L02 Beam Encasement:11473046,3l_iJeOdTA6fYPDMT8W6No,34,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3785901,00JWife956PxKDBC3Ttze5,33,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3785930,00JWife956PxKDBC3TtzfY,33,no
+verified,02,IfcCovering,Beam Encasement L02 G1:Beam Encasement L02 G1:11458650,0HLB_bP8nBI8puo_0uAqOH,33,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401723,0KqpSkma91KQQW4Boara9Y,33,no
+verified,Undefined,IfcBeam,BEAM,0Nassb5Or50BcNPFZQK18i,33,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3425521,0sRTT5cOf1ywrGy0Yfpipe,33,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3416839,12tS2p7$5BZgMZXmZGvzpe,33,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3407624,19tgmllKf0l8wknYzdCRAg,33,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3421811,1eEuhQwwvB6ftVAvrpgwXS,33,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3421638,1eEuhQwwvB6ftVAvrpgwlf,33,no
+verified,02,IfcPipeFitting,Elbow - Plain - PVC-C:Standard:12576203,1haLSL37T2ThKMH9cdbGCN,33,no
+verified,02,IfcPipeFitting,Elbow - Plain - PVC-C:Standard:12576388,1haLSL37T2ThKMH9cdbG1O,33,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12013918,1lZ91mGwL73wNZc5V2ry$Y,33,no
+verified,01,IfcStairFlight,Cast-In-Place Stair:Stair:2085540 Run 2,2$GlaK5znDJAFFOxcZMG$F,33,no
+verified,02,IfcWall,Basic Wall:Cubicle - colour 10 Oak:9382782,29qPakIjbDkwWNG_k6cRNH,33,no
+verified,Undefined,IfcBeam,BEAM,2IpeENJY58JwoVlufHjo_s,33,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Elbow No 10-13:Standard:3595174,2_e8Z9Tmf2e8Kn62dEctT3,33,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:3702311,2jXTuW3KH3u90LiEzJzQWr,33,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:3702308,2jXTuW3KH3u90LiEzJzQWv,33,no
+verified,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11732176,2ykjEHqsLAygN49lthYo4$,33,no
+verified,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11737420,2ykjEHqsLAygN49lthYpoZ,33,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:11753529,2ykjEHqsLAygN49lthYttM,33,no
+verified,02,IfcCovering,Grid E L02 Beam Encasement5:Grid E L02 Beam Encasement:11470663,38LejoB_5Ctw$bffMRG4xV,33,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8552628,3WTJcUwMb87fZ1dRyrUED4,33,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9913973,3ZMdLyTJjE5hexaEdLQFWY,33,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:8553101,3ofPGJu0f7Mu78KYE14BGI,33,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1946316,3q$Z$PvkD4Zh9ty60KqC6U,33,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11902447,3vx2sjlB12e8eOtQ9zjYab,33,no
+verified,Undefined,IfcBeam,BEAM,07UhjE$PTDc8hsHrofjRsp,32,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:14986731,080fMIoKT9kRzcTpFSP1sk,32,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910711,09A9KbM9z4DOWIOWMUs34V,32,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11944915,0G$bj1iW549v1vMgJVCVGs,32,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3401822,0KqpSkma91KQQW4Boarat7,32,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401791,0KqpSkma91KQQW4Boarasc,32,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3401820,0KqpSkma91KQQW4Boarat5,32,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:4173666,0R0DHe4dzFoQlypB8jMSyP,32,no
+verified,Undefined,IfcBeam,BEAM,0gNBBX5CjF_ecjDWn96bW0,32,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage PVC New:12781568,0im$V8ptHD8ATqCrIyVA72,32,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3424864,0sRTT5cOf1ywrGy0Yfpifv,32,no
+verified,02,IfcCovering,Beam Encasement L02 Grid H7:Beam Encasement L02 Grid H:11481021,135S3U7Yj5FfoBX3qrsdij,32,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3784259,1PoYFu5oj3oPQqJOSG5sBE,32,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3421336,1eEuhQwwvB6ftVAvrpgwgt,32,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3420741,1eEuhQwwvB6ftVAvrpgwng,32,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621781,1hTcLxPi17kg6dKCP9_MTH,32,no
+verified,02,IfcPipeFitting,Elbow - Plain - PVC-C:Standard:12577416,1haLSL37T2ThKMH9cdbGnK,32,no
+verified,00,IfcWall,Basic Wall:EWI02d - Inner leaf - reduced by 25mm:7731060,1ufMSg26D4zuKN0O9XNLNh,32,no
+verified,02,IfcWall,Basic Wall:EWI02d - Inner leaf - reduced by 25mm:7731127,1ufMSg26D4zuKN0O9XNLKe,32,no
+verified,R2,IfcCovering,Beam Encasement L10:Beam Encasement L02:11487052,2ETp3EZAbFguEbBJBUB2CV,32,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:3702319,2jXTuW3KH3u90LiEzJzQkP,32,no
+verified,02,IfcWall,Basic Wall:IW30_0dB_85mm:4660580,2r5lT3Ea11Meh7C3$Td1CX,32,no
+verified,02,IfcDuctFitting,Duct Branch -Round Shoe Branch - Slip Joint:Standard:11738374,2ykjEHqsLAygN49lthYpZf,32,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11753394,2ykjEHqsLAygN49lthYt9T,32,no
+verified,00,IfcWall,Basic Wall:EWI02d - Inner leaf - reduced by 25mm:981471,32XD08rvLBk8syab24qB_s,32,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12977445,0fT4xIU7XFkh5FFZQhVAcE,32,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12972381,0fT4xIU7XFkh5FFZQhVrts,32,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12971551,0fT4xIU7XFkh5FFZQhVqAq,32,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:13418858,2hAGcQW5r0hvC$Il4vU0TV,32,no
+verified,00,IfcWall,Basic Wall:EWI02d - Inner leaf - reduced by 25mm_duplicate:1011644,03aWIbVkz6iA6OH856IFb4,31,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910421,09A9KbM9z4DOWIOWMUs30z,31,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9913540,09A9KbM9z4DOWIOWMUs4ni,31,no
+verified,Undefined,IfcBeam,BEAM,0Io_4CAPjBLPLLltFi5as6,31,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401862,0KqpSkma91KQQW4BoaraqV,31,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9900762,0M0AoB3FrEGxoapz3oTyX7,31,no
+verified,02,IfcPipeFitting,AGL_PipeFitting_CompactSoilSwBend:Type 301_90:12780759,0im$V8ptHD8ATqCrIyVAqL,31,no
+verified,Undefined,IfcBeam,BEAM,0tEVPc0Yb2J8r4bDEwFXwI,31,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3400849,0w1swDUmP99xz5zcYLshdD,31,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3419750,2hDUvQ0aL08h5aw6fqGtW$,31,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11739601,2ykjEHqsLAygN49lthYmG_,31,no
+verified,02,IfcDuctFitting,Duct Taper - Rectangular Eccentric Taper - Slip Joint:Standard:11760372,2ykjEHqsLAygN49lthYrSR,31,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3408545,3v9xDUcE13reP5o14YYCP7,31,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12916960,12Rfi4WkL2u9TSlWeFfxws,31,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3786929,00JWife956PxKDBC3TtzOP,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3785837,00JWife956PxKDBC3Ttzh5,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3515524,095F13Lo5DgQ_wApZOMSFs,30,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9909130,09A9KbM9z4DOWIOWMUs3iY,30,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9908876,09A9KbM9z4DOWIOWMUs3ea,30,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8554532,0ERLmo4C17QhMZisAdvnDe,30,no
+verified,02,IfcCovering,Beam Encasement L02 G4:Beam Encasement L02 G4:11458424,0HLB_bP8nBI8puo_0uAqap,30,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3427102,0Km9QgkUj4Suq4NHKhFQ3$,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3426528,0Km9QgkUj4Suq4NHKhFQC1,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401740,0KqpSkma91KQQW4BoarasL,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401811,0KqpSkma91KQQW4BoaratA,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402077,0KqpSkma91KQQW4Boarap4,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401808,0KqpSkma91KQQW4Boarat9,30,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3401810,0KqpSkma91KQQW4BoaratB,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401824,0KqpSkma91KQQW4Boaratv,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402417,0KqpSkma91KQQW4Boaraye,30,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9900708,0M0AoB3FrEGxoapz3oTyWv,30,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:8284688,0QeI_$MDjDcvTgmG4ZwPx7,30,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:10861867,0e2TdYU0r3NRSNEedptwia,30,no
+verified,02,IfcCovering,Compound Ceiling:AHR_LN30 beam encasement:9505135,0hwo3sCQr69gas$RCmKJgG,30,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9504841,0hwo3sCQr69gas$RCmKJks,30,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3425520,0sRTT5cOf1ywrGy0Yfpipf,30,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3400872,0w1swDUmP99xz5zcYLshdq,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3418485,12tS2p7$5BZgMZXmZGvzQQ,30,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Elbow No 10-13:Standard:3418494,12tS2p7$5BZgMZXmZGvzQH,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3417557,12tS2p7$5BZgMZXmZGvzew,30,no
+verified,Undefined,IfcBeam,BEAM,1F7vLklM9CvuTv7Riq6gLy,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3784250,1PoYFu5oj3oPQqJOSG5sAt,30,no
+verified,00,IfcWall,Basic Wall:EWI01 - Inner leaf:980643,1WBpG2_hP5fhiZVKNyWqgV,30,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8545856,1Wl2vXuHH2LxdXN$suSfaQ,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3421878,1eEuhQwwvB6ftVAvrpgwYP,30,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3421300,1eEuhQwwvB6ftVAvrpgwfR,30,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Elbow No 10-13:Standard:3420149,1eEuhQwwvB6ftVAvrpgx7Q,30,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621782,1hTcLxPi17kg6dKCP9_MTG,30,no
+verified,Undefined,IfcMember,VERT_BRACE_TUBE,2Cc$tZe_1ClvE9xCGERLaF,30,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:9494291,2OGNb62BX2IfI4ZqWtq2iL,30,no
+verified,02,IfcSlab,Floor:AHR_Precast stair top step:7789503,2UnG9ITeP2vwl5rl7JRimr,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3411852,2VW8oDMSfE2RAKx$0Ht2yX,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3419755,2hDUvQ0aL08h5aw6fqGtWo,30,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3419231,2hDUvQ0aL08h5aw6fqGte6,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400058,2nLO9BJXv8u8tU2AWaSB5o,30,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9905246,2nv4S3pV18axbev$X4qhJv,30,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11878773,2vcDJ1Rzv6W8D0eP6bxR56,30,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11734433,2ykjEHqsLAygN49lthYoXE,30,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11735330,2ykjEHqsLAygN49lthYpJD,30,no
+verified,02,IfcDuctSegment,Round Duct:Segmented Bend - Slip Joint:11761419,2ykjEHqsLAygN49lthYrBa,30,no
+verified,02,IfcCovering,Beam Encasement L02 Grid H-North3:Beam Encasement L02 Grid H-North:11493151,33g_AG05b9sw7h4GMaam_a,30,no
+verified,02,IfcPipeFitting,AGL_PipeFitting_3BossBranchSwept:Type 301:12776030,33zSm1_PH7nfs$_UYX0q6O,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3450481,3LRPnSmq1CIuFl6_BL4E6g,30,no
+verified,01,IfcWall,Basic Wall:EWI01 - Inner leaf:1170208,3RkHgAvGj8oR7ad60KgF1h,30,no
+verified,02,IfcPipeFitting,Elbow - Plain - PVC-C:Standard:12578406,3TyHm2NHH9hPaYnxSfS2XN,30,no
+verified,02,IfcPipeFitting,Elbow - Plain - PVC-C:Standard:12578410,3TyHm2NHH9hPaYnxSfS2cX,30,no
+verified,02,IfcCovering,Beam Encasement L02 Grid E North1:Beam Encasement L02 Grid E North:11489839,3UYbg1Mp1AsOV6GkbvDnxg,30,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3589501,3ZwXn8dd9AvumEkMqJNt9U,30,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:1899886,3_D_FlLcf9xxyoTt3pCq6o,30,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9930232,3hUlq47ov9JO7vj3jEoavn,30,no
+verified,Undefined,IfcBeam,BEAM,3oVRm$80TDIvN2bxOaRZ7V,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3432572,3pV4_xRYHDnRoc1mXZ_uhH,30,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3433885,3pV4_xRYHDnRoc1mXZ_uym,30,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3408914,3v9xDUcE13reP5o14YYC3q,30,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:7538211,0HPqbHT_jD3Q9ICHRlSgj7,30,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1924636,3zxnUdgOnFRg7a3Ibe5Ifb,30,no
+verified,02,IfcCovering,Basic Wall:W2.1_a Hygienic Panel white:11707781,0IF73cW7L6IuviWsauL840,29,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401771,0KqpSkma91KQQW4Boaraso,29,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401804,0KqpSkma91KQQW4BoaratL,29,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401158,0w1swDUmP99xz5zcYLshYQ,29,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400821,0w1swDUmP99xz5zcYLshaf,29,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401006,0w1swDUmP99xz5zcYLshXo,29,no
+verified,Undefined,IfcBeam,BEAM,1yMutdajPCRx7M2eoJPb50,29,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3419169,2hDUvQ0aL08h5aw6fqGtfu,29,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage PVC New:11727786,2ykjEHqsLAygN49lthYjP5,29,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3589678,3ZwXn8dd9AvumEkMqJNt4D,29,no
+verified,02,IfcWall,Basic Wall:IW03_53dB_122mm:1879379,3ffWOMHNv2qPtT9Eb80rEd,29,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9911156,09A9KbM9z4DOWIOWMUs3FS,28,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910035,09A9KbM9z4DOWIOWMUs3_x,28,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909795,09A9KbM9z4DOWIOWMUs3wB,28,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8554530,0ERLmo4C17QhMZisAdvnDk,28,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3402480,0KqpSkma91KQQW4Boarazf,28,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9922603,0dBOxa$ULCxu_gELY9GFJS,28,no
+verified,02,IfcCovering,Compound Ceiling:AHR_LN30 beam encasement:9505416,0hwo3sCQr69gas$RCmKJbt,28,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3407011,19tgmllKf0l8wknYzdCR41,28,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3407380,19tgmllKf0l8wknYzdCREs,28,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3447440,1HJnIHFlPBpODPjT1Sc7pY,28,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3421414,1eEuhQwwvB6ftVAvrpgwh9,28,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12576529,1haLSL37T2ThKMH9cdbG7D,28,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621780,1hTcLxPi17kg6dKCP9_MTM,28,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:9494666,2OGNb62BX2IfI4ZqWtq1IC,28,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:3702307,2jXTuW3KH3u90LiEzJzQWu,28,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9905297,2nv4S3pV18axbev$X4qhGs,28,no
+verified,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11725843,2ykjEHqsLAygN49lthYidy,28,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:13983152,3P9RYkyT56neztq0AVDC0W,28,no
+verified,02,IfcWall,Basic Wall:IW03_50dB_122mm:1175408,3RkHgAvGj8oR7ad60KgCGx,28,no
+verified,02,IfcCovering,Grid E L02 Beam Encasement15:Grid E L02 Beam Encasement:11473659,3l_iJeOdTA6fYPDMT8W6UV,28,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553612,3ofPGJu0f7Mu78KYE14B8J,28,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553135,3ofPGJu0f7Mu78KYE14BGm,28,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:7538487,0HPqbHT_jD3Q9ICHRlSgfJ,28,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12954450,2ymgR9QAT74fTx_39MjOkk,28,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910456,09A9KbM9z4DOWIOWMUs30G,27,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910510,09A9KbM9z4DOWIOWMUs316,27,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8554367,0ERLmo4C17QhMZisAdvnmp,27,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3401739,0KqpSkma91KQQW4BoarasI,27,no
+verified,Undefined,IfcBeam,BEAM,0htugcG6D3MxL7C9kjS091,27,no
+verified,02,IfcPipeFitting,AGL_PipeFitting_3BossBranchSwept:Type 301:12781567,0im$V8ptHD8ATqCrIyVAuz,27,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage PVC New:12781276,0im$V8ptHD8ATqCrIyVAyU,27,no
+verified,02,IfcSlab,Floor:AHR_UpperSlab ST10:1766575,13el$pzY5BoQYagWv18oBp,27,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3406871,19tgmllKf0l8wknYzdCR6r,27,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8545631,1Wl2vXuHH2LxdXN$suSfe5,27,no
+verified,02,IfcCovering,Beam Encasement L02 Grid H6:Beam Encasement L02 Grid H:11480795,1dck8Qy7nEaOV7SGCfFgu_,27,no
+verified,02,IfcPipeFitting,Elbow - Plain - PVC-C:Standard:12576723,1haLSL37T2ThKMH9cdbG4F,27,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9907573,2nv4S3pV18axbev$X4qhtI,27,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9907387,2nv4S3pV18axbev$X4qhmS,27,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:6105004,3SmOzqcVL3F9SokQCL5GIo,27,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:6105008,3SmOzqcVL3F9SokQCL5GIk,27,no
+verified,R2,IfcCovering,Beam Encasement L13:Beam Encasement L02:11488388,3UYbg1Mp1AsOV6GkbvDm11,27,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12973372,0fT4xIU7XFkh5FFZQhVrcN,27,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3785827,00JWife956PxKDBC3TtzhB,26,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3512342,095F13Lo5DgQ_wApZOMVza,26,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12595511,09CPzvvfjD6x4kusBOuccw,26,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12595418,09CPzvvfjD6x4kusBOudHL,26,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12595209,09CPzvvfjD6x4kusBOudwX,26,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3515690,0BuDIyh1HCkf5$bjwGE4A8,26,no
+verified,Undefined,IfcBeam,BEAM,0Bv4EOR_bBTh499SfHDErN,26,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8554047,0ERLmo4C17QhMZisAdvnrp,26,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12578155,0GpXJGKQDD8h7N7qM0uTPB,26,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12577969,0GpXJGKQDD8h7N7qM0uTUH,26,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401419,0w1swDUmP99xz5zcYLshkN,26,no
+verified,02,IfcCovering,Basic Wall:W2.1_b1 Splashback_Vibrance:7896547,11YnvelNDCQ8ol3w17YlXn,26,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402634,1_XberoHPCOA7pqervehyF,26,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3421239,1eEuhQwwvB6ftVAvrpgweO,26,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12576677,1haLSL37T2ThKMH9cdbG5v,26,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12013568,1lZ91mGwL73wNZc5V2rywy,26,no
+verified,02,IfcCovering,Beam Encasement L02 Grid E North2:Beam Encasement L02 Grid E North:11490280,1n4nQyDq52Q8_D7QOJY1QO,26,no
+verified,02,IfcCovering,Beam Encasement L02 Grid E North5:Beam Encasement L02 Grid E North:11490465,1n4nQyDq52Q8_D7QOJY17S,26,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12581065,29Som_NgnCQuMum3vGtlvU,26,no
+verified,01,IfcPipeSegment,Pipe Types:Steel Heating:13651895,2GOonHucLFHg7SewT2NCFF,26,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3411826,2VW8oDMSfE2RAKx$0Ht2$V,26,no
+verified,Undefined,IfcBeam,CHANNEL_BEAM,2bFn$KZT19oBOUfrdtwQ5P,26,no
+verified,Undefined,IfcBeam,BEAM,2cJ8hwYxL0dQDR1qDkyMRb,26,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3419415,2hDUvQ0aL08h5aw6fqGtjE,26,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:3702298,2jXTuW3KH3u90LiEzJzQXx,26,no
+verified,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11725561,2ykjEHqsLAygN49lthYiyM,26,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3449458,3LRPnSmq1CIuFl6_BL4EMf,26,no
+verified,02,IfcWall,Basic Wall:IW03_50dB_122mm:1175726,3RkHgAvGj8oR7ad60KgDlb,26,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Elbow No 10-13:Standard:3589915,3ZwXn8dd9AvumEkMqJNt0u,26,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Elbow No 10-13:Standard:3589495,3ZwXn8dd9AvumEkMqJNt9K,26,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4608394,3l6AYkaaHBMxg$P5733HjF,26,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:4734382,3m5TMYSEPF9OJT19xuZefc,26,no
+verified,Undefined,IfcBeam,BEAM,3zYwV463f00O5CqdI85GxC,26,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:13437259,2Sycqqmqn09hAlRUzKU6I7,26,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12574890,04xp5u09L7GxolKkDhSxbi,25,no
+verified,02,IfcCableCarrierFitting,TR - Electrical Trunking Square Elbow:Electrical:12831634,06KYouS$X9_xK_q1e$H4Gb,25,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9912528,09A9KbM9z4DOWIOWMUs4Xu,25,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12595523,09CPzvvfjD6x4kusBOuccK,25,no
+verified,02,IfcWall,Basic Wall:IW02_45dB_102mm:1407057,0CwwD$QWL8TPmO6BvC0Vdn,25,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8554366,0ERLmo4C17QhMZisAdvnmo,25,no
+verified,02,IfcWall,Basic Wall:IW01_0dB_102mm:2911670,0EWKOf6zX0WB7G1uzlmR$f,25,no
+verified,01,IfcSlab,Cast-In-Place Stair:Stair:2089267 Landing 1,0KCW7ww4nALhPYi8T0alAP,25,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401848,0KqpSkma91KQQW4BoaratX,25,no
+verified,Undefined,IfcBeam,BEAM,0gvvu4hw93Kh1uOL$3rFfQ,25,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9504643,0hwo3sCQr69gas$RCmKJHy,25,no
+verified,Undefined,IfcBeam,ROOF_BRACE,0lrMODGlL85QYvY6kBISfK,25,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3400832,0w1swDUmP99xz5zcYLshdS,25,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400833,0w1swDUmP99xz5zcYLshdT,25,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401172,0w1swDUmP99xz5zcYLshY8,25,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:2588022,1JLnwmkmvDdBu9rIjwih7r,25,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3782997,1PoYFu5oj3oPQqJOSG5sNO,25,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12014197,1lZ91mGwL73wNZc5V2ryp9,25,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3414416,2DRR6qssX5pQKPCcF$3c4K,25,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:9494653,2OGNb62BX2IfI4ZqWtq1Hx,25,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:9494635,2OGNb62BX2IfI4ZqWtq1Hj,25,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3411908,2VW8oDMSfE2RAKx$0Ht2zf,25,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3419129,2hDUvQ0aL08h5aw6fqGtsW,25,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3419135,2hDUvQ0aL08h5aw6fqGtsc,25,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3400060,2nLO9BJXv8u8tU2AWaSB5q,25,no
+verified,02,IfcPipeFitting,Tee - Plain - PVC-C:Standard:11781460,2ykjEHqsLAygN49lthY_2x,25,no
+verified,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11760359,2ykjEHqsLAygN49lthYrS8,25,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11751414,2ykjEHqsLAygN49lthYseP,25,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11753110,2ykjEHqsLAygN49lthYtDv,25,no
+verified,02,IfcPipeFitting,AGL_PipeFitting_3BossBranchSwept:Type 301:12776003,33zSm1_PH7nfs$_UYX0q0f,25,no
+verified,Undefined,IfcBeam,BEAM,3F3$VgILr3SApiu8gg1$En,25,no
+verified,02,IfcCovering,Compound Ceiling:AHR_Ceiling_C4.1_Plasterboard:2552020,3FodpYbe57Pwv53JRJPGaP,25,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3589917,3ZwXn8dd9AvumEkMqJNt0_,25,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3429120,3lPjhbcJjDxggerrTpSZBb,25,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4735060,3m5TMYSEPF9OJT19xuZlUS,25,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8553791,3ofPGJu0f7Mu78KYE14BEW,25,no
+verified,Undefined,IfcBeam,BEAM,3y4qdfNejB4weMTBypjM3j,25,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:10334625,1L$FkinATB$A8JSgJKdG1y,25,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12917888,12Rfi4WkL2u9TSlWeFfxhM,25,no
+verified,Undefined,IfcMember,VERT_BRACE_TUBE,03XR5GyQX3wfKXF0nRDifQ,24,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910009,09A9KbM9z4DOWIOWMUs3vH,24,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3413238,0CbLtd2f1EXvy4qsw1Z3SP,24,no
+verified,01,IfcSlab,Cast-In-Place Stair:Stair:2089267 Landing 2,0KCW7ww4nALhPYi8T0al6D,24,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3425858,0Km9QgkUj4Suq4NHKhFQsZ,24,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401835,0KqpSkma91KQQW4Boarato,24,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage PVC New:12779465,0im$V8ptHD8ATqCrIyVLOB,24,no
+verified,R2,IfcRoof,Basic Roof:Roof slab placeholder DO NOT DELETE:4535051,1$xyhSmRb6egURrIBXVmBe,24,no
+verified,R2,IfcRoof,Basic Roof:Roof slab placeholder DO NOT DELETE:4534898,1$xyhSmRb6egURrIBXVmEH,24,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:2588023,1JLnwmkmvDdBu9rIjwih7q,24,no
+verified,02,IfcWall,Basic Wall:IW06_50dB_230mm:7663446,1Iy1v3WrTCgwXzb$8MObv0,24,no
+verified,02,IfcWall,Basic Wall:IW02_45dB_102mm:1992021,1NnGh6nM57khvEcNsAUeEt,24,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402624,1_XberoHPCOA7pqervehy5,24,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402642,1_XberoHPCOA7pqervehyN,24,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3421400,1eEuhQwwvB6ftVAvrpgwht,24,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9486506,2$EgfGQx9CjxazA1ljmCSQ,24,no
+verified,Undefined,IfcBeam,BEAM,25OmG$4X53cPS4EUEx96Qk,24,no
+verified,Undefined,IfcBeam,BEAM,29N02OTdD77xcx1UB1sqa7,24,no
+verified,02,IfcWall,Basic Wall:Cubicle - colour 10 Oak:9382703,29qPakIjbDkwWNG_k6cRVL,24,no
+verified,Undefined,IfcBeam,BEAM,2TAKYTS9n69B2bTi6ei7ly,24,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3411844,2VW8oDMSfE2RAKx$0Ht2yf,24,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9906458,2nv4S3pV18axbev$X4qhcz,24,no
+verified,02,IfcBuildingElementProxy,90 ShortRadiusBends 2 in Deep:Default:9907641,2nv4S3pV18axbev$X4qhqU,24,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11750615,2ykjEHqsLAygN49lthYsau,24,no
+verified,Undefined,IfcBeam,BEAM,3H3tbxbKb6Pvx2F5pI6yM8,24,no
+verified,02,IfcWall,Basic Wall:IPS - colour 9 BLUE light:9422407,3QNNWfY998PRj7WTpN0n6T,24,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:6105007,3SmOzqcVL3F9SokQCL5GIn,24,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:6105056,3SmOzqcVL3F9SokQCL5GJ_,24,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:6105057,3SmOzqcVL3F9SokQCL5GJ$,24,no
+verified,Undefined,IfcBeam,BEAM,3Xl6t$NRD7MQ3Htx42SJg8,24,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4735059,3m5TMYSEPF9OJT19xuZlUR,24,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553136,3ofPGJu0f7Mu78KYE14BGl,24,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8554352,0ERLmo4C17QhMZisAdvnmy,23,no
+verified,01,IfcStairFlight,Cast-In-Place Stair:Stair:2089267 Run 3,0KCW7ww4nALhPYi8T0al1o,23,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3425860,0Km9QgkUj4Suq4NHKhFQsb,23,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401761,0KqpSkma91KQQW4Boarasu,23,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401806,0KqpSkma91KQQW4BoaratN,23,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9899713,0M0AoB3FrEGxoapz3oTzHS,23,no
+verified,Undefined,IfcBeam,BEAM,0hvZn$78XFpeJlPlrcH2i5,23,no
+verified,02,IfcCovering,Compound Ceiling:AHR_LN30 beam encasement:9506085,0hwo3sCQr69gas$RCmKJxQ,23,no
+verified,Undefined,IfcBeam,BEAM,0jTJbdYSX1O9YudTZcrx9t,23,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3406576,19tgmllKf0l8wknYzdCRTI,23,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3447663,1HJnIHFlPBpODPjT1Sc7qT,23,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3421432,1eEuhQwwvB6ftVAvrpgwhN,23,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3420250,1eEuhQwwvB6ftVAvrpgwvr,23,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1811214,1yO5FFWfz9i8yrlHNCoT4f,23,no
+verified,02,IfcPipeFitting,Bush Reducing - Plain - PVC-C:Standard:12874462,25LZiN2Pz7BBAbb$fTBh1H,23,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:9494290,2OGNb62BX2IfI4ZqWtq2iK,23,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:9494637,2OGNb62BX2IfI4ZqWtq1Hh,23,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12580205,2UfND8bfbD3gIM1d2pLSdJ,23,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:3702297,2jXTuW3KH3u90LiEzJzQXw,23,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3398187,2nLO9BJXv8u8tU2AWaS8eZ,23,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9907554,2nv4S3pV18axbev$X4qht5,23,no
+verified,Undefined,IfcBeam,BEAM,2uHw_Ftd112AsB9loLfMpR,23,no
+verified,00,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:11729522,2ykjEHqsLAygN49lthYj_T,23,no
+verified,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11734867,2ykjEHqsLAygN49lthYogy,23,no
+verified,02,IfcCovering,Beam Encasement L02 Grid H-North2:Beam Encasement L02 Grid H-North:11492943,33g_AG05b9sw7h4GMaamxq,23,no
+verified,Undefined,IfcBeam,BEAM,3JZnZ2uDz9sRDNDDTYes2b,23,no
+verified,02,IfcCovering,Beam Encasement L15:Beam Encasement L02:11488729,3UYbg1Mp1AsOV6GkbvDm4S,23,no
+verified,02,IfcCovering,Beam Encasement L02 G11:Beam Encasement L02 G4:11466069,3YPFvxq1P9d9plfgYldHBY,23,no
+verified,Undefined,IfcBeam,BEAM,3f9D6jgjz379_YCXZYzpKk,23,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4608407,3l6AYkaaHBMxg$P5733HgP,23,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553806,3ofPGJu0f7Mu78KYE14BFH,23,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3408552,3v9xDUcE13reP5o14YYCPE,23,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910235,09A9KbM9z4DOWIOWMUs3zp,22,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9912403,09A9KbM9z4DOWIOWMUs4Zx,22,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3413239,0CbLtd2f1EXvy4qsw1Z3SO,22,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8554365,0ERLmo4C17QhMZisAdvnmn,22,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12578009,0GpXJGKQDD8h7N7qM0uTVv,22,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3426525,0Km9QgkUj4Suq4NHKhFQCy,22,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401799,0KqpSkma91KQQW4BoaratU,22,no
+verified,Undefined,IfcMember,VERT_BRACE_TUBE,0PmuxZPQj3EQitsiQ3O2h8,22,no
+verified,Undefined,IfcBeam,BEAM,1JuyCOTQ52CPv9O5Ckfqd2,22,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:10101160,1Ldjdzz0T1deCjwhBkRIAm,22,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3783845,1PoYFu5oj3oPQqJOSG5s0e,22,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3421768,1eEuhQwwvB6ftVAvrpgwXd,22,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3420139,1eEuhQwwvB6ftVAvrpgx74,22,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12576977,1haLSL37T2ThKMH9cdbGuD,22,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9486507,2$EgfGQx9CjxazA1ljmCSR,22,no
+verified,02,IfcWall,Basic Wall:Cubicle - colour 10 Oak:9382676,29qPakIjbDkwWNG_k6cRSu,22,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:9494253,2OGNb62BX2IfI4ZqWtq2hh,22,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:9494634,2OGNb62BX2IfI4ZqWtq1Hi,22,no
+verified,Undefined,IfcBeam,BEAM,2nIoOC0QH6lQgfMsgFTAzi,22,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400061,2nLO9BJXv8u8tU2AWaSB5r,22,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9905036,2nv4S3pV18axbev$X4qhCh,22,no
+verified,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11727366,2ykjEHqsLAygN49lthYjVf,22,no
+verified,02,IfcDuctFitting,Duct Branch -Round Shoe Branch - Slip Joint:Standard:11738372,2ykjEHqsLAygN49lthYpZh,22,no
+verified,Undefined,IfcBeam,BEAM,3$ajZ2Ew59QvOsExnyiq9S,22,no
+verified,02,IfcCovering,Beam Encasement L02 Grid H-North4:Beam Encasement L02 Grid H-North:11493281,33g_AG05b9sw7h4GMaamyQ,22,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9914153,3ZMdLyTJjE5hexaEdLQFb_,22,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8552942,3ofPGJu0f7Mu78KYE14BTn,22,no
+verified,Undefined,IfcBeam,BEAM,3uenWYc$5FwOcRKf7knhGX,22,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12916377,12Rfi4WkL2u9TSlWeFfxE5,22,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12977342,0fT4xIU7XFkh5FFZQhVAWL,22,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9908878,09A9KbM9z4DOWIOWMUs3ec,21,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401711,0KqpSkma91KQQW4Boara9s,21,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401846,0KqpSkma91KQQW4Boaratl,21,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402481,0KqpSkma91KQQW4Boaraze,21,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4577844,0UI3G6DJHBHOAHeVwCMpcw,21,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3447540,1HJnIHFlPBpODPjT1Sc7o6,21,no
+verified,02,IfcWall,Basic Wall:IW31_0dB_100mm:1986767,1NnGh6nM57khvEcNsAUhOj,21,no
+verified,Undefined,IfcBeam,BEAM,1WF_U$xDz2Oght$96DcYTd,21,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3421318,1eEuhQwwvB6ftVAvrpgwgf,21,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3420093,1eEuhQwwvB6ftVAvrpgx6I,21,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12013513,1lZ91mGwL73wNZc5V2rz5r,21,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1811213,1yO5FFWfz9i8yrlHNCoT4g,21,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9486406,2$EgfGQx9CjxazA1ljmCVs,21,no
+verified,02,IfcWall,Basic Wall:LN01_0dB 40mm (Internal):9492246,2OGNb62BX2IfI4ZqWtq2CG,21,no
+verified,Undefined,IfcBeam,BEAM,2jGhuHxAbAGQwLfa3yJUvv,21,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9905438,2nv4S3pV18axbev$X4qhMv,21,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9906672,2nv4S3pV18axbev$X4qhbN,21,no
+verified,02,IfcSlab,Basic Roof:R002a - Bitumen - Metal Deck:3207260,2xX9jkE297cQjRINMGPn$5,21,no
+verified,02,IfcDuctSilencer,ESG_DuctAccessories_RoundVolumeControlDamper1:Standard 2:11726237,2ykjEHqsLAygN49lthYiXo,21,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11751319,2ykjEHqsLAygN49lthYsfu,21,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:986481,32XD08rvLBk8syab24qKiO,21,no
+verified,02,IfcCovering,Compound Ceiling:AHR_Ceiling_C4.1_Plasterboard:2552040,3FodpYbe57Pwv53JRJPGgN,21,no
+verified,Undefined,IfcBeam,BEAM,3LQHLjH4n4Wu5Twd33GykT,21,no
+verified,01,IfcWall,Basic Wall:IW02_48dB_102mm:1172556,3RkHgAvGj8oR7ad60KgCy7,21,no
+verified,Undefined,IfcBeam,CHANNEL_BEAM,3gomviMX95khDmf3_Z$K2v,21,no
+verified,Undefined,IfcBeam,BEAM,3oGP1gYWT7qA6PBSTKulvd,21,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553595,3ofPGJu0f7Mu78KYE14BBa,21,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553134,3ofPGJu0f7Mu78KYE14BGn,21,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910687,09A9KbM9z4DOWIOWMUs34t,20,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909554,09A9KbM9z4DOWIOWMUs3sQ,20,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909612,09A9KbM9z4DOWIOWMUs3t4,20,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3412698,0CbLtd2f1EXvy4qsw1Z34r,20,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3413091,0CbLtd2f1EXvy4qsw1Z3UC,20,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8554529,0ERLmo4C17QhMZisAdvnDj,20,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12578373,0GpXJGKQDD8h7N7qM0uTLb,20,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401755,0KqpSkma91KQQW4Boaras2,20,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3400870,0w1swDUmP99xz5zcYLshdw,20,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401435,0w1swDUmP99xz5zcYLshk7,20,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3418542,12tS2p7$5BZgMZXmZGvzP1,20,no
+verified,02,IfcSlab,Floor:AHR_Precast stair top step:7783729,18Ex3Hq2X6lh2$RCkPjbq8,20,no
+verified,02,IfcWall,Basic Wall:IW06_50dB_230mm:7663435,1Iy1v3WrTCgwXzb$8MObvT,20,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3421238,1eEuhQwwvB6ftVAvrpgweP,20,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12575357,1haLSL37T2ThKMH9cdbGIX,20,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12014141,1lZ91mGwL73wNZc5V2ryo1,20,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9486267,2$EgfGQx9CjxazA1ljmBWB,20,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3411910,2VW8oDMSfE2RAKx$0Ht2zh,20,no
+verified,Undefined,IfcBeam,BEAM,2YBq4TAUDF0PyKk5wN5AY0,20,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:4579180,2kPffT0CPA2AmimKRgRR7c,20,no
+verified,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11726250,2ykjEHqsLAygN49lthYiX5,20,no
+verified,02,IfcPipeFitting,Cross - Plain - PVC-C:Standard:11729478,2ykjEHqsLAygN49lthYj_f,20,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:986477,32XD08rvLBk8syab24qKi4,20,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage PVC New:12775988,33zSm1_PH7nfs$_UYX0q15,20,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):7750804,34DNf0SS1EivoLJXMgaT3I,20,no
+verified,R2,IfcRoof,Basic Roof:Roof slab placeholder DO NOT DELETE:1232410,37wl8g7r9BDRv3zJUt6VvU,20,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:6105009,3SmOzqcVL3F9SokQCL5GIl,20,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:6105005,3SmOzqcVL3F9SokQCL5GIp,20,no
+verified,Undefined,IfcBeam,CHANNEL_BEAM,3WH18x9MfCfgaVfqx1x0Pn,20,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:8552527,3WTJcUwMb87fZ1dRyrUEE$,20,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Elbow No 10-13:Standard:3590138,3ZwXn8dd9AvumEkMqJNt3P,20,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3590146,3ZwXn8dd9AvumEkMqJNtyX,20,no
+verified,00,IfcMember,Rectangular Mullion:AHR_Internal_150x50mm:1899880,3_D_FlLcf9xxyoTt3pCq6q,20,no
+verified,02,IfcCovering,Beam Encasement L02 Grid F2:Beam Encasement L02 Grid F:11495634,3f_HI3dBD0YOtWuvlO9OcW,20,no
+verified,01,IfcWall,Basic Wall:IW30_0dB_85mm:2200554,3gGebkJBL4TBeKAv$KzZgD,20,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:7538452,0HPqbHT_jD3Q9ICHRlSgfm,20,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:7538444,0HPqbHT_jD3Q9ICHRlSgfe,20,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:7538530,0HPqbHT_jD3Q9ICHRlSge6,20,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12953957,3F8elRFCfEl9f0qrWHV$$A,20,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:13984586,3P9RYkyT56neztq0AVDFxQ,20,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910674,09A9KbM9z4DOWIOWMUs34w,19,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:4171795,0R0DHe4dzFoQlypB8jMSXe,19,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401379,0w1swDUmP99xz5zcYLshl$,19,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3418504,12tS2p7$5BZgMZXmZGvzPd,19,no
+verified,02,IfcCovering,Grid E L02 Beam Encasement16:Grid E L02 Beam Encasement:11473909,1N7$nmQgzF2AfgrchAd5sI,19,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621743,1hTcLxPi17kg6dKCP9_MQF,19,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12576337,1haLSL37T2ThKMH9cdbG2D,19,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3447813,1xF$Uy7X1CJgsgkQNa5rMd,19,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11875813,2$RCQmBAPAofgngZDZ8sP1,19,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9494327,2OGNb62BX2IfI4ZqWtq2in,19,no
+verified,02,IfcWall,Basic Wall:LN00_board only 15mm:9492967,2OGNb62BX2IfI4ZqWtq2tX,19,no
+verified,Undefined,IfcBeam,ROOF_BRACE,2f_Qg$ovv94ORaretuZhm0,19,no
+verified,Undefined,IfcBeam,BEAM,2l_lJL92vCPfnzW51V9R9P,19,no
+verified,Undefined,IfcBeam,BEAM,2oQrc7OQT05ekMF69xMwIk,19,no
+verified,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11763867,2ykjEHqsLAygN49lthYwLq,19,no
+verified,Undefined,IfcBeam,BEAM,37h6QbmvT5eAW0Bnus960m,19,no
+verified,02,IfcWall,Basic Wall:IW31_0dB_100mm:1778057,39xFYEXeX3pPgS_NpJC6gJ,19,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3784891,3K5Em3PkvFn9aTtfZxKnp8,19,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3785333,3K5Em3PkvFn9aTtfZxKnu6,19,no
+verified,02,IfcWall,Basic Wall:IW30_0dB_85mm:1175791,3RkHgAvGj8oR7ad60KgDka,19,no
+verified,02,IfcCovering,Beam Encasement L02 G15:Beam Encasement L02 G4:11467282,3YPFvxq1P9d9plfgYldHsb,19,no
+verified,Undefined,IfcBeam,BEAM,3YKtAIAZP3DQcHnRgMi4mS,19,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12574752,04xp5u09L7GxolKkDhSxiG,18,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12574740,04xp5u09L7GxolKkDhSxlT,18,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12578086,0GpXJGKQDD8h7N7qM0uTO6,18,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12578174,0GpXJGKQDD8h7N7qM0uTPU,18,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400782,0w1swDUmP99xz5zcYLshaI,18,no
+verified,Undefined,IfcBeam,BEAM,1CZ1A31Eb1NxXSc8Jn62Gh,18,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3447630,1HJnIHFlPBpODPjT1Sc7qy,18,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3446853,1HJnIHFlPBpODPjT1Sc7ut,18,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3421088,1eEuhQwwvB6ftVAvrpgwsF,18,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12014396,1lZ91mGwL73wNZc5V2rys0,18,no
+verified,Undefined,IfcBeam,BEAM,1zwHGn0qH4lvJpcmOcJ4wi,18,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9486270,2$EgfGQx9CjxazA1ljmBWE,18,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:9494667,2OGNb62BX2IfI4ZqWtq1ID,18,no
+verified,Undefined,IfcBeam,BEAM,2P3V2fsw1F1fp_0MFAJQAo,18,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3411805,2VW8oDMSfE2RAKx$0Ht2$m,18,no
+verified,Undefined,IfcBeam,BEAM,2g1_2MQsXFDfbTtBnaAsKg,18,no
+verified,02,IfcCovering,Basic Wall:LN21 Column encasement_30mm:8575016,2r9yFPTAj86OAqrnRgOjzJ,18,no
+verified,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:12211897,2uGmY_48b8tvlQidcXGsl$,18,no
+verified,Undefined,IfcBeam,BEAM,2vqKoTLDr93P4k3qHTKlsx,18,no
+verified,Undefined,IfcBeam,BEAM,3KkpLu8uT1YwmOyApwRYI1,18,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3590120,3ZwXn8dd9AvumEkMqJNt3B,18,no
+verified,02,IfcCovering,Compound Ceiling:AHR_Ceiling_C1.1_Modular:2140108,3eeZNTCIHAMf670k51_BBv,18,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12953955,3F8elRFCfEl9f0qrWHV$4_,18,no
+verified,Undefined,IfcBeam,BEAM,0$2nDIh5vA$gVOky0RhfjY,17,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9911154,09A9KbM9z4DOWIOWMUs3FQ,17,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12595368,09CPzvvfjD6x4kusBOudIU,17,no
+verified,02,IfcWall,Basic Wall:IW01_0dB_102mm:1407795,0CwwD$QWL8TPmO6BvC0VgJ,17,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8554350,0ERLmo4C17QhMZisAdvnmY,17,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12577989,0GpXJGKQDD8h7N7qM0uTVb,17,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3401860,0KqpSkma91KQQW4BoaraqT,17,no
+verified,00,IfcWall,Basic Wall:EWI01 - Inner leaf:7719832,0T9Mu9XZL62R0GdkwwE9EC,17,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402636,1_XberoHPCOA7pqervehy9,17,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621803,1hTcLxPi17kg6dKCP9_MNt,17,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9486501,2$EgfGQx9CjxazA1ljmCSL,17,no
+verified,01,IfcSlab,Cast-In-Place Stair:Stair:2085540 Landing 1,2$GlaK5znDJAFFOxcZMGxG,17,no
+verified,Undefined,IfcBeam,BEAM,2Rxn73kRfD5O3UZzQ7jG0T,17,no
+verified,Undefined,IfcBeam,BEAM,2aZKBnuyTC0Owyj7$RVULF,17,no
+verified,02,IfcWall,Basic Wall:IW31_0dB_100mm:1956916,2g5G4JcSzFTuUPJzeiSDkL,17,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11734439,2ykjEHqsLAygN49lthYoX8,17,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3429126,3lPjhbcJjDxggerrTpSZBZ,17,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4734837,3m5TMYSEPF9OJT19xuZeYz,17,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:10870158,3oLH19dWX5b8FqAfYOU$3B,17,no
+verified,02,IfcCovering,Compound Ceiling:AHR_LN30 beam encasement:9417075,3s59_4cbT8ZRalJc7Y9T5$,17,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12923216,0uEvEBCpLEYQNRPxLlfC18,17,no
+verified,02,IfcBuildingElementProxy,90 ShortRadiusBends 2 in Deep:Default:9913632,09A9KbM9z4DOWIOWMUs4s8,16,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12578391,0GpXJGKQDD8h7N7qM0uTLt,16,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4577849,0UI3G6DJHBHOAHeVwCMpWC,16,no
+verified,02,IfcCovering,Basic Wall:W2.1_b1 Splashback_Vibrance:9377194,0Yibf_M8PCQudxPo9TqjBN,16,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:7632246,17gg1D7TPBvOmEgWrrZhNF,16,no
+verified,02,IfcCovering,Floor:AHR_UpperSlab edge trim:7783771,18Ex3Hq2X6lh2$RCkPjbrY,16,no
+verified,02,IfcCovering,Duct Insulation:Fire Clad:13449534,19F$cQuzj3RwdGtGA2w8pN,16,no
+verified,Undefined,IfcBeam,BEAM,1CSM$4aB5BnhsYuePR44bl,16,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3446603,1HJnIHFlPBpODPjT1Sc74v,16,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3421437,1eEuhQwwvB6ftVAvrpgwhI,16,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9486502,2$EgfGQx9CjxazA1ljmCSM,16,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11875633,2$RCQmBAPAofgngZDZ8sQL,16,no
+verified,Undefined,IfcBeam,BEAM,2IvzHgIMvCf9WYYxDu3wVb,16,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12581883,2OMiWyGzj4guk$OK3eunSd,16,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12580208,2UfND8bfbD3gIM1d2pLSdE,16,no
+verified,02,IfcCovering,Beam Encasement L21:Beam Encasement L02:11497620,2Zgf7dPkz4mwVNkGRYvOdT,16,no
+verified,Undefined,IfcBeam,BEAM,2kYHnMaeTBRwJBBqWOt_no,16,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3400252,2nLO9BJXv8u8tU2AWaSB8q,16,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9905579,2nv4S3pV18axbev$X4qhKC,16,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11734420,2ykjEHqsLAygN49lthYoXx,16,no
+verified,R2,IfcCovering,Beam Encasement L02 Grid H-North8:Beam Encasement L02 Grid H-North:11494115,33g_AG05b9sw7h4GMaap9O,16,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):7750780,34DNf0SS1EivoLJXMgaT0w,16,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3450436,3LRPnSmq1CIuFl6_BL4E6V,16,no
+verified,02,IfcCovering,Beam Encasement L1:Beam Encasement L02:11468013,3YPFvxq1P9d9plfgYldHjQ,16,no
+verified,Undefined,IfcBeam,BEAM,3eaVfhR$rA$9h0CCzVX3yQ,16,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12954331,2ymgR9QAT74fTx_39MjOed,16,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:9517599,03XHmPM8T7WxDaV6bxEgM2,15,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12574878,04xp5u09L7GxolKkDhSxbS,15,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12574776,04xp5u09L7GxolKkDhSxjs,15,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910020,09A9KbM9z4DOWIOWMUs3_i,15,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12595826,0C_eUrTHjEFeYHQUezfgFV,15,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3412760,0CbLtd2f1EXvy4qsw1Z33t,15,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3413236,0CbLtd2f1EXvy4qsw1Z3SR,15,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12578045,0GpXJGKQDD8h7N7qM0uTVT,15,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4577855,0UI3G6DJHBHOAHeVwCMpZt,15,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11908706,0fvBoMkUT5LvjDc8OGRtdf,15,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3783855,1PoYFu5oj3oPQqJOSG5s0Y,15,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:13278855,1XDAt2ebv72xosI2Q9jCRM,15,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3402644,1_XberoHPCOA7pqervehyH,15,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621741,1hTcLxPi17kg6dKCP9_MQD,15,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621770,1hTcLxPi17kg6dKCP9_MV0,15,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9486268,2$EgfGQx9CjxazA1ljmBWC,15,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9486407,2$EgfGQx9CjxazA1ljmCVt,15,no
+verified,Undefined,IfcBeam,CHANNEL_BEAM,2McQ0pdcf2Ee744JTk6bFV,15,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:9494292,2OGNb62BX2IfI4ZqWtq2iI,15,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12581886,2OMiWyGzj4guk$OK3eunSY,15,no
+verified,Undefined,IfcBeam,BEAM,2x6AwUThfEEuBKfVViQ_3V,15,no
+verified,02,IfcDuctFitting,Duct Branch -Round Shoe Branch - Slip Joint:Standard:11725811,2ykjEHqsLAygN49lthYiuS,15,no
+verified,02,IfcDuctFitting,Duct Bend - Rectangular Short Radius Bend - Slip Joint:Standard:11760356,2ykjEHqsLAygN49lthYrSB,15,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:8284988,3154Cogdz0Ux3e_yLkOfb5,15,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:14936879,33WO_lETv7OBB$DdOE3FtB,15,no
+verified,02,IfcWall,Basic Wall:IW31_0dB_100mm:4576058,3EomQKtNn5Nw1DD5$HlLuV,15,no
+verified,02,IfcCovering,Compound Ceiling:AHR_Ceiling_C4.1_Plasterboard:2552051,3FodpYbe57Pwv53JRJPGkn,15,no
+verified,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:13983502,3P9RYkyT56neztq0AVDCAU,15,no
+verified,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:13983355,3P9RYkyT56neztq0AVDCFh,15,no
+verified,Undefined,IfcBeam,CHANNEL_BEAM,3PILyegyXCExfq_LG$J_b0,15,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1171946,3RkHgAvGj8oR7ad60KgCgX,15,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:7725531,3RwAW7_fT47R96FPCFNXt7,15,no
+verified,02,IfcCovering,Compound Ceiling:AHR_Ceiling_C1.1_Modular:2140011,3eeZNTCIHAMf670k51_B9U,15,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4608392,3l6AYkaaHBMxg$P5733HjD,15,no
+verified,02,IfcWall,Basic Wall:LN00_board only 15mm:4734838,3m5TMYSEPF9OJT19xuZeY_,15,no
+verified,02,IfcCovering,Basic Wall:LN21 Column encasement_30mm:8553462,3ofPGJu0f7Mu78KYE14BLf,15,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:7538479,0HPqbHT_jD3Q9ICHRlSgfB,15,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:7538499,0HPqbHT_jD3Q9ICHRlSged,15,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:7538471,0HPqbHT_jD3Q9ICHRlSgf3,15,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:7538520,0HPqbHT_jD3Q9ICHRlSgey,15,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING:BW OPENING:7555173,35ikPziXT63B3k1op2xn4f,15,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12953917,3F8elRFCfEl9f0qrWHV$U3,15,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12970737,1b7nc$_qn6AO2Up$EBfye9,15,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12982641,1Ls9KWAmf24OC$gmmVTb0I,15,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12990490,05i338kKjCFAgUnk1ESNqz,15,no
+verified,Undefined,IfcBeam,BEAM,0Qe3XwlNDClg3pE9_l8ZHH,14,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4577851,0UI3G6DJHBHOAHeVwCMpWo,14,no
+verified,00,IfcWall,Basic Wall:EWI01 - Inner leaf:2916997,0WssSx0bD3uBp3GMPgHGae,14,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11907410,0fvBoMkUT5LvjDc8OGRtxP,14,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621772,1hTcLxPi17kg6dKCP9_MV2,14,no
+verified,Undefined,IfcMember,VERT_BRACE_TUBE,1lfqNhzxn6g8Qh6wbhCzC4,14,no
+verified,00,IfcWall,Basic Wall:EWI01 - Inner leaf:7731285,1ufMSg26D4zuKN0O9XNLhA,14,no
+verified,02,IfcCovering,Basic Wall:W2.1_a Hygienic Panel white:11847594,1xRrXzltL7MgiNS_BJSDMh,14,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1956414,2g5G4JcSzFTuUPJzeiSDsV,14,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1956020,2g5G4JcSzFTuUPJzeiSDyL,14,no
+verified,Undefined,IfcMember,VERT_BRACE_TUBE,2jJLiwBhb0FPwYsjlbnLqE,14,no
+verified,02,IfcDuctFitting,Duct Bend - Round Pressed Bend - Slip Joint:Medium Radius:11732178,2ykjEHqsLAygN49lthYo4z,14,no
+verified,02,IfcCovering,Basic Wall:W2.1_a Hygienic Panel white:11703472,32zfhM4EP98uW0cmPF8S0e,14,no
+verified,02,IfcCovering,Compound Ceiling:AHR_Ceiling_C4.1_Plasterboard:2552098,3FodpYbe57Pwv53JRJPGrW,14,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8551930,3WTJcUwMb87fZ1dRyrU1uA,14,no
+verified,02,IfcWall,Basic Wall:Cubicle - colour 6 AQUA:9425815,3WXZUhOZz9Ee4K$2UBYLKj,14,no
+verified,02,IfcWall,Basic Wall:Cubicle - colour 8 PURPLE:9425761,3WXZUhOZz9Ee4K$2UBYLNR,14,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:9914155,3ZMdLyTJjE5hexaEdLQFby,14,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8553758,3ofPGJu0f7Mu78KYE14BE1,14,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553133,3ofPGJu0f7Mu78KYE14BGo,14,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11904218,3vx2sjlB12e8eOtQ9zjX0G,14,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12921302,05F3kw65b1XAipN0aQNXoK,14,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12987025,05i338kKjCFAgUnk1ESM_s,14,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12574728,04xp5u09L7GxolKkDhSxkC,13,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12574716,04xp5u09L7GxolKkDhSxnX,13,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12577687,0GpXJGKQDD8h7N7qM0uT2t,13,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:10867211,0KJaKRAt18yBIpXd1jWJzH,13,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:4577811,0UI3G6DJHBHOAHeVwCMp_A,13,no
+verified,Undefined,IfcBeam,BEAM,0fPa0jhbrDBely41ATpd1l,13,no
+verified,Undefined,IfcBeam,BEAM,10RTjTgrTENA1ejMoTN9IY,13,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3415982,12tS2p7$5BZgMZXmZGv_11,13,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3447237,1HJnIHFlPBpODPjT1Sc7_t,13,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3783868,1PoYFu5oj3oPQqJOSG5s0n,13,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621771,1hTcLxPi17kg6dKCP9_MV3,13,no
+verified,Undefined,IfcBeam,BEAM,2HBRvibaXB4OgIRnrPARzS,13,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9492347,2OGNb62BX2IfI4ZqWtq2Dz,13,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9905362,2nv4S3pV18axbev$X4qhHr,13,no
+verified,02,IfcCovering,Basic Wall:LN21 Column encasement_30mm:8575039,2r9yFPTAj86OAqrnRgOjz4,13,no
+verified,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11726238,2ykjEHqsLAygN49lthYiXn,13,no
+verified,02,IfcDuctSegment,Round Duct:Pressed Bend - Slip Joint:11725822,2ykjEHqsLAygN49lthYiuH,13,no
+verified,02,IfcPipeFitting,AGL_PipeFittings_CompactSoilCrossTee:Type 301:11727788,2ykjEHqsLAygN49lthYjP3,13,no
+verified,00,IfcWall,Basic Wall:EWI01 - Inner leaf:983338,32XD08rvLBk8syab24qKT3,13,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:10869790,399DNKJhP5FBf2_lLfJer0,13,no
+verified,02,IfcCovering,Compound Ceiling:AHR_Ceiling_C4.1_Plasterboard:2552074,3FodpYbe57Pwv53JRJPGno,13,no
+verified,02,IfcWall,Basic Wall:IW02_45dB_102mm:1173908,3RkHgAvGj8oR7ad60KgCBV,13,no
+verified,02,IfcWall,Basic Wall:IW03_50dB_122mm:1176132,3RkHgAvGj8oR7ad60KgDaF,13,no
+verified,Undefined,IfcBeam,BEAM,3XnFqRc4T5FwVduG3hURv7,13,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:8291277,3lQX9CVpr8ARc_qKf65gkv,13,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553464,3ofPGJu0f7Mu78KYE14BLd,13,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3432571,3pV4_xRYHDnRoc1mXZ_uhM,13,no
+verified,02,IfcBuildingElementProxy,ESG_GenericModels_BW OPENING WALL:BW OPENING WALL:12981535,2jm$QdH6jAAR3G2EeiZH_t,13,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12574900,04xp5u09L7GxolKkDhSxYz,12,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12578089,0GpXJGKQDD8h7N7qM0uTO9,12,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4577857,0UI3G6DJHBHOAHeVwCMpP0,12,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4578014,0UI3G6DJHBHOAHeVwCMpMC,12,no
+verified,Undefined,IfcMember,VERT_BRACE_TUBE,0dqSUrHULA6PTBX$OKbTUG,12,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:7727734,0xnDHWU198DBaDYKSXbBXi,12,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:7727542,0xnDHWU198DBaDYKSXbBki,12,no
+verified,Undefined,IfcBeam,BEAM,130WCka2nDChscIVWjwpUZ,12,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3420917,1eEuhQwwvB6ftVAvrpgwpQ,12,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3421012,1eEuhQwwvB6ftVAvrpgwrx,12,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621814,1hTcLxPi17kg6dKCP9_M96,12,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621804,1hTcLxPi17kg6dKCP9_MNs,12,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9486615,2$EgfGQx9CjxazA1ljmCQd,12,no
+verified,Undefined,IfcBeam,BEAM,2I7BomAo5A7BIM86_k7Qc8,12,no
+verified,02,IfcWall,Basic Wall:IW01_0dB_102mm:1956937,2g5G4JcSzFTuUPJzeiSDle,12,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3400251,2nLO9BJXv8u8tU2AWaSB8p,12,no
+verified,Undefined,IfcBeam,BEAM,2sJZ6IhQHFW8zHP6Mvlkl5,12,no
+verified,02,IfcDuctSilencer,ESG_DuctAccessories_RoundFireDamper:Dry Wall - Pre-installed:11727380,2ykjEHqsLAygN49lthYjVx,12,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1174459,3RkHgAvGj8oR7ad60KgC3m,12,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1176365,3RkHgAvGj8oR7ad60KgDXc,12,no
+verified,02,IfcWall,Basic Wall:Cubicle - colour 5 GREEN:9425842,3WXZUhOZz9Ee4K$2UBYLK8,12,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9914433,3ZMdLyTJjE5hexaEdLQFOM,12,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553613,3ofPGJu0f7Mu78KYE14B8I,12,no
+verified,Undefined,IfcBeam,BEAM,3wPmabLdb9g9nDkkXpVaA3,12,no
+verified,02,IfcSlab,Floor:AHR_UpperSlab ST10:4867629,08zvzmdNfFRx3wAPjXf3Bb,11,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910200,09A9KbM9z4DOWIOWMUs3yG,11,no
+verified,02,IfcWall,Basic Wall:IW30_0dB_85mm:3163263,0MUD7pDFH1mPRHvcHtmfxW,11,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8545873,1Wl2vXuHH2LxdXN$suSfaB,11,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621644,1hTcLxPi17kg6dKCP9_LGR,11,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):7731472,1ufMSg26D4zuKN0O9XNLkF,11,no
+verified,02,IfcWall,Basic Wall:IW01_0dB_102mm:1864482,2C$2Y3H4H4ThnRfdoEvQUW,11,no
+verified,Undefined,IfcBeam,BEAM,2C6PRmsY16Lfgbc9mcwElg,11,no
+verified,Undefined,IfcBeam,BEAM,2QZ8bbMLH3YQMh8P0XBZTy,11,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3412387,2VW8oDMSfE2RAKx$0Ht34E,11,no
+verified,02,IfcWall,Basic Wall:IW01_0dB_102mm:1956980,2g5G4JcSzFTuUPJzeiSDlL,11,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1613059,2jXOdJn4n9Uhfmz6d_NgQD,11,no
+verified,02,IfcCovering,Basic Wall:W2.1_a Hygienic Panel white:11700372,2qiXoJF1j8AOfG$Sv3aKTF,11,no
+verified,Undefined,IfcBeam,BEAM,2uZmbsKqTDigWMuiX7_uyB,11,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:4576056,3EomQKtNn5Nw1DD5$HlL_8,11,no
+verified,02,IfcWall,Basic Wall:IW03_50dB_122mm:1175471,3RkHgAvGj8oR7ad60KgCJa,11,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553534,3ofPGJu0f7Mu78KYE14BAX,11,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8553759,3ofPGJu0f7Mu78KYE14BE0,11,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):5965692,0Bc6ANXWbDVuS9PcGppSGv,10,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12578109,0GpXJGKQDD8h7N7qM0uTOT,10,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:10865129,0KJaKRAt18yBIpXd1jWIIp,10,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4578013,0UI3G6DJHBHOAHeVwCMpMF,10,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4577853,0UI3G6DJHBHOAHeVwCMpZn,10,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4577854,0UI3G6DJHBHOAHeVwCMpZs,10,no
+verified,Undefined,IfcBeam,BEAM,0pceZ_0dfF5QlIRg$5Dv$8,10,no
+verified,02,IfcWall,Basic Wall:IW01_0dB_102mm:1926416,1Zq2Szuvb8OPWZLG2qIW51,10,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3421332,1eEuhQwwvB6ftVAvrpgwgx,10,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3421416,1eEuhQwwvB6ftVAvrpgwh7,10,no
+verified,02,IfcPipeFitting,Victaulic-IPS-Rigid Coupling Style 07-W07-107:Standard:3421298,1eEuhQwwvB6ftVAvrpgwfT,10,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3420963,1eEuhQwwvB6ftVAvrpgwqC,10,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621812,1hTcLxPi17kg6dKCP9_M94,10,no
+verified,02,IfcPipeSegment,Pipe Types:Above Ground Drainage VUL:12577365,1haLSL37T2ThKMH9cdbGo9,10,no
+verified,02,IfcCovering,Beam Encasement L02 Grid E North4:Beam Encasement L02 Grid E North:11490364,1n4nQyDq52Q8_D7QOJY151,10,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9486616,2$EgfGQx9CjxazA1ljmCQe,10,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:4961176,2D2ns8jXjDm8jYgExDIlwR,10,no
+verified,02,IfcDuctSegment,Rectangular Duct:Electrical Trunking:13437276,2Sycqqmqn09hAlRUzKU6bc,10,no
+verified,Undefined,IfcBeam,CHANNEL_BEAM,2TO6boibH6XOMwr2opvnpN,10,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3411818,2VW8oDMSfE2RAKx$0Ht2$7,10,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1956267,2g5G4JcSzFTuUPJzeiSDuA,10,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9905457,2nv4S3pV18axbev$X4qhMM,10,no
+verified,02,IfcWall,Basic Wall:IW02_45dB_102mm:1174691,3RkHgAvGj8oR7ad60KgCVe,10,no
+verified,Undefined,IfcBeam,BEAM,3Rj0sGrPj6QPJht$KG7aKZ,10,no
+verified,02,IfcWall,Basic Wall:IW03_50dB_122mm:1176204,3RkHgAvGj8oR7ad60KgDd7,10,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1948231,3ULrog0d9F58rhvh3WrC3T,10,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9914431,3ZMdLyTJjE5hexaEdLQFPe,10,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4608405,3l6AYkaaHBMxg$P5733HgV,10,no
+verified,02,IfcCovering,Basic Wall:LN31 Column/beam encasement_60mm:8553100,3ofPGJu0f7Mu78KYE14BGJ,10,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553611,3ofPGJu0f7Mu78KYE14B8K,10,no
+verified,Undefined,IfcMember,PLATE,0$J4NweErCN9wle38wQPmO,9,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910596,09A9KbM9z4DOWIOWMUs37i,9,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12595936,0C_eUrTHjEFeYHQUezfgDD,9,no
+verified,02,IfcCovering,Basic Wall:W2.1_a Hygienic Panel white:7518596,0_6DzrNy180RxX6$X1976C,9,no
+verified,02,IfcCovering,Basic Wall:W2.1_a Hygienic Panel white:7519626,0_6DzrNy180RxX6$X197M2,9,no
+verified,Undefined,IfcBeam,BEAM,0mNpcBnHTER9Bjb26Iw22j,9,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:7665224,1Iy1v3WrTCgwXzb$8MOaTU,9,no
+verified,02,IfcWall,Basic Wall:IW31_0dB_100mm:1986796,1NnGh6nM57khvEcNsAUhOE,9,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:3420919,1eEuhQwwvB6ftVAvrpgwpO,9,no
+verified,02,IfcCovering,Beam Encasement L02 Grid E North3:Beam Encasement L02 Grid E North:11490320,1n4nQyDq52Q8_D7QOJY15j,9,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9486508,2$EgfGQx9CjxazA1ljmCSS,9,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9494328,2OGNb62BX2IfI4ZqWtq2i_,9,no
+verified,02,IfcSlab,Floor:AHR_Precast stair top step:7792275,2UnG9ITeP2vwl5rl7JRl4P,9,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3411810,2VW8oDMSfE2RAKx$0Ht2$F,9,no
+verified,Undefined,IfcMember,VERT_BRACE_TUBE,2aILDAVZrDo8aSyIPJA61m,9,no
+verified,Undefined,IfcBeam,BEAM,2f3Jb$ydH7ZOHi32yYqbzr,9,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1613664,2jXOdJn4n9Uhfmz6d_NgJk,9,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11734414,2ykjEHqsLAygN49lthYoXX,9,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11734412,2ykjEHqsLAygN49lthYoXZ,9,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11734400,2ykjEHqsLAygN49lthYoXl,9,no
+verified,02,IfcDuctSegment,Rectangular Duct:Radius Bend - Slip Joint:11760361,2ykjEHqsLAygN49lthYrS6,9,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1778115,39xFYEXeX3pPgS_NpJC6hP,9,no
+verified,02,IfcWall,Basic Wall:IW30_0dB_85mm:1175834,3RkHgAvGj8oR7ad60KgDfH,9,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8551973,3WTJcUwMb87fZ1dRyrU1tL,9,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8551928,3WTJcUwMb87fZ1dRyrU1u8,9,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3589897,3ZwXn8dd9AvumEkMqJNt0g,9,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553662,3ofPGJu0f7Mu78KYE14B8X,9,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8553790,3ofPGJu0f7Mu78KYE14BEX,9,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8553757,3ofPGJu0f7Mu78KYE14BE2,9,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910634,09A9KbM9z4DOWIOWMUs372,8,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9909565,09A9KbM9z4DOWIOWMUs3sL,8,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12577827,0GpXJGKQDD8h7N7qM0uTS3,8,no
+verified,02,IfcPipeFitting,Tee One Run and Branch Reduced - Threaded - MI:Standard:4171794,0R0DHe4dzFoQlypB8jMSXf,8,no
+verified,Undefined,IfcBeam,BEAM,0TXUdDhTz2fx4vgHfekgnL,8,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11908752,0fvBoMkUT5LvjDc8OGRtaR,8,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3418510,12tS2p7$5BZgMZXmZGvzPX,8,no
+verified,Undefined,IfcBeam,BEAM,16eK01H0PDFuh7cAdrpu0z,8,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:9486611,2$EgfGQx9CjxazA1ljmCQZ,8,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9486504,2$EgfGQx9CjxazA1ljmCSO,8,no
+verified,Undefined,IfcBeam,BEAM,2F8Hg101PFh9oLdczbnkNy,8,no
+verified,02,IfcWall,Basic Wall:LN01_0dB 40mm (Internal):9493227,2OGNb62BX2IfI4ZqWtq2xj,8,no
+verified,02,IfcWall,Basic Wall:LN01_0dB 40mm (Internal):9492807,2OGNb62BX2IfI4ZqWtq2r1,8,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:4579162,2kPffT0CPA2AmimKRgRR7G,8,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11734418,2ykjEHqsLAygN49lthYoXz,8,no
+verified,02,IfcWall,Basic Wall:IW03_50dB_122mm:1175068,3RkHgAvGj8oR7ad60KgCLN,8,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3589583,3ZwXn8dd9AvumEkMqJNtBi,8,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553661,3ofPGJu0f7Mu78KYE14B8Y,8,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553773,3ofPGJu0f7Mu78KYE14BEo,8,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553660,3ofPGJu0f7Mu78KYE14B8Z,8,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553679,3ofPGJu0f7Mu78KYE14B9G,8,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553678,3ofPGJu0f7Mu78KYE14B9H,8,no
+verified,Undefined,IfcBeam,BEAM,0Qp_co_tP9FRPx0T9fGLhU,7,no
+verified,02,IfcWall,Fire Stop 30min Horizontal:Type Cladding:2829274,0QOu_k0c9BpOAUZg9PBcZF,7,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4577845,0UI3G6DJHBHOAHeVwCMpcx,7,no
+verified,00,IfcWall,Basic Wall:EWI01 - Inner leaf:2916911,0WssSx0bD3uBp3GMPgHGc2,7,no
+verified,Undefined,IfcBeam,BEAM,0tn0BdWpLAe9$m23Hm5wO6,7,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3407998,19tgmllKf0l8wknYzdDatS,7,no
+verified,Undefined,IfcBeam,BEAM,1SkS3906HCZvNn7H0Jc$GG,7,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1811309,1yO5FFWfz9i8yrlHNCoT5A,7,no
+verified,Undefined,IfcBeam,BEAM,2DNEu8KtfAzQvDyI_khrSu,7,no
+verified,Undefined,IfcBeam,BEAM,2V56KS4xLA6xeHTwUO7sz$,7,no
+verified,02,IfcWall,Basic Wall:IW01_0dB_102mm:1956941,2g5G4JcSzFTuUPJzeiSDli,7,no
+verified,Undefined,IfcBeam,BEAM,2w4CFSgxP7XeTxuxoat6fu,7,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11734416,2ykjEHqsLAygN49lthYoX$,7,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11734406,2ykjEHqsLAygN49lthYoXf,7,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3784872,3K5Em3PkvFn9aTtfZxKnpR,7,no
+verified,02,IfcWall,Basic Wall:IW01_0dB_102mm:1172017,3RkHgAvGj8oR7ad60KgCbw,7,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1174908,3RkHgAvGj8oR7ad60KgCOt,7,no
+verified,Undefined,IfcBeam,BEAM,3YWnQuOBf0PgrajhktUcuy,7,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1879633,3ffWOMHNv2qPtT9Eb80r2b,7,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553676,3ofPGJu0f7Mu78KYE14B9J,7,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1944587,3q$Z$PvkD4Zh9ty60KqDzP,7,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1722574,3y5Yk0koH8k8FSI5luXO3O,7,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:9517567,03XHmPM8T7WxDaV6bxEgPY,6,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9903788,0TN6Y8EOf2tAg0AQGncXS7,6,no
+verified,Undefined,IfcBeam,BEAM,0dxsE$xsb7lP65dNkjBKOH,6,no
+verified,Undefined,IfcMember,VERT_BRACE_TUBE,0koKAf1fXBvhTyCkZL7lE6,6,no
+verified,Undefined,IfcBeam,BEAM,177nMvQEv8OespUWKarVJ8,6,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8545832,1Wl2vXuHH2LxdXN$suSfbo,6,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3421333,1eEuhQwwvB6ftVAvrpgwgw,6,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621742,1hTcLxPi17kg6dKCP9_MQC,6,no
+verified,02,IfcWall,Basic Wall:IW03_53dB_122mm:1811212,1yO5FFWfz9i8yrlHNCoT4h,6,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1862495,2C$2Y3H4H4ThnRfdoEvR$T,6,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:4961134,2D2ns8jXjDm8jYgExDIlvj,6,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:7662884,2R8f94QQTDbhuJ5O2d8pu8,6,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11878714,2vcDJ1Rzv6W8D0eP6bxR49,6,no
+verified,Undefined,IfcBeam,BEAM,2x4zWwlQjF5gSqq94zmSgz,6,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11734424,2ykjEHqsLAygN49lthYoXt,6,no
+verified,02,IfcPipeSegment,Pipe Types:Copper Domestics:11734404,2ykjEHqsLAygN49lthYoXh,6,no
+verified,02,IfcWall,Basic Wall:IW01_0dB_102mm:1778118,39xFYEXeX3pPgS_NpJC6hS,6,no
+verified,02,IfcCovering,Basic Wall:Plasterboard Bulkhead:2552106,3FodpYbe57Pwv53JRJPGsI,6,no
+verified,02,IfcCovering,Basic Wall:Plasterboard Bulkhead:2552082,3FodpYbe57Pwv53JRJPGp4,6,no
+verified,Undefined,IfcBeam,BEAM,3JuOEcVvjDMgOwGnh9nz38,6,no
+verified,Undefined,IfcBeam,BEAM,3PFiJYZIf1xB7j_5ylNqer,6,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1174574,3RkHgAvGj8oR7ad60KgCTb,6,no
+verified,02,IfcWall,Basic Wall:IW01_0dB_102mm:1172138,3RkHgAvGj8oR7ad60KgCdX,6,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553809,3ofPGJu0f7Mu78KYE14BFE,6,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553808,3ofPGJu0f7Mu78KYE14BFF,6,no
+verified,Undefined,IfcBeam,PLATE,3ss4mq9MPDiutjrVGmyhNu,6,no
+verified,02,IfcBuildingElementProxy,2 in Deep Flextray:Default:9910657,09A9KbM9z4DOWIOWMUs34f,5,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:8554349,0ERLmo4C17QhMZisAdvnmX,5,no
+verified,Undefined,IfcBeam,BEAM,0h01_pwSPEhhyb6U7dyjIi,5,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1992935,1NnGh6nM57khvEcNsAUeu5,5,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1993157,1NnGh6nM57khvEcNsAUeyd,5,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:11878662,2vcDJ1Rzv6W8D0eP6bxR4r,5,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:4602070,3BjGfF3cP4HeBSbH3YL2$U,5,no
+verified,02,IfcWall,Basic Wall:IW03_50dB_122mm:1174118,3RkHgAvGj8oR7ad60KgC4j,5,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1173573,3RkHgAvGj8oR7ad60KgCCE,5,no
+verified,02,IfcWall,Basic Wall:IW03_50dB_122mm:1175315,3RkHgAvGj8oR7ad60KgCHO,5,no
+verified,02,IfcWall,Basic Wall:IW03_50dB_122mm:1176053,3RkHgAvGj8oR7ad60KgDg_,5,no
+verified,02,IfcWall,Basic Wall:IW03_53dB_122mm:2200913,3gGebkJBL4TBeKAv$KzZms,5,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553596,3ofPGJu0f7Mu78KYE14BBZ,5,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553535,3ofPGJu0f7Mu78KYE14BAW,5,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553463,3ofPGJu0f7Mu78KYE14BLe,5,no
+verified,02,IfcPipeSegment,Pipe Types:Steel Heating:12577909,0GpXJGKQDD8h7N7qM0uTTL,4,no
+verified,Undefined,IfcBeam,BEAM,0IYPKmXqn1qgwUvKG1dsKe,4,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:4577812,0UI3G6DJHBHOAHeVwCMp_k,4,no
+verified,02,IfcWall,Basic Wall:IW01_0dB_102mm:4696876,1Hmz_2hvPAPvIWpjerX1ke,4,no
+verified,02,IfcPipeSegment,Pipe Types:-JJ- Sprinkler:3420856,1eEuhQwwvB6ftVAvrpgwoN,4,no
+verified,02,IfcCovering,Basic Wall:LN30 Column/beam encasement_43mm:9486617,2$EgfGQx9CjxazA1ljmCQf,4,no
+verified,02,IfcWall,Basic Wall:IW31_0dB_100mm:1778059,39xFYEXeX3pPgS_NpJC6gH,4,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553776,3ofPGJu0f7Mu78KYE14BEl,4,no
+verified,02,IfcCovering,Basic Wall:LN20 Column encasement_15mm:8553775,3ofPGJu0f7Mu78KYE14BEm,4,no
+verified,Undefined,IfcBeam,BEAM,1SaPJ2alr7TRIiEoTu0znk,3,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621820,1hTcLxPi17kg6dKCP9_N$s,3,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:7663101,2R8f94QQTDbhuJ5O2d8pxH,3,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1956268,2g5G4JcSzFTuUPJzeiSDuD,3,no
+verified,02,IfcWall,Basic Wall:IW01_0dB_102mm:1173760,3RkHgAvGj8oR7ad60KgC9B,3,no
+verified,02,IfcWall,Basic Wall:IW01_0dB_102mm:1173682,3RkHgAvGj8oR7ad60KgCFv,3,no
+verified,02,IfcWall,Basic Wall:IW02_45dB_102mm:1173278,3RkHgAvGj8oR7ad60KgCnL,3,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1879550,3ffWOMHNv2qPtT9Eb80rCA,3,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1944551,3q$Z$PvkD4Zh9ty60KqDYr,3,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4578012,0UI3G6DJHBHOAHeVwCMpME,2,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):7727851,0xnDHWU198DBaDYKSXbBZn,2,no
+verified,02,IfcWall,Basic Wall:LN05_0dB 75mm (Internal):4621821,1hTcLxPi17kg6dKCP9_N$n,2,no
+verified,02,IfcWall,Basic Wall:LN00_board only 15mm:9490984,2OGNb62BX2IfI4ZqWtq2Ok,2,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1955715,2g5G4JcSzFTuUPJzeiSD0Y,2,no
+verified,02,IfcWall,Basic Wall:IW02_45dB_102mm:986484,32XD08rvLBk8syab24qKiT,2,no
+verified,02,IfcWall,Basic Wall:IW01_0dB_102mm:1778114,39xFYEXeX3pPgS_NpJC6hO,2,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:1778060,39xFYEXeX3pPgS_NpJC6gM,2,no
+verified,02,IfcWall,Basic Wall:IW03_50dB_122mm:1175638,3RkHgAvGj8oR7ad60KgDiT,2,no
+verified,02,IfcWall,Basic Wall:IW01_40dB_102mm:2200978,3gGebkJBL4TBeKAv$KzZpr,2,no
+verified,02,IfcWall,Basic Wall:IW01_0dB_102mm:1926389,1Zq2Szuvb8OPWZLG2qIW2a,1,no
