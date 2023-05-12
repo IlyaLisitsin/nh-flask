@@ -55,10 +55,11 @@ def echo():
         guid_list = agent.run(user_text + ' ' + pm.prefix_filtering)
     except:
         chatbot_text = pm.error_message
+        guid_list = []
     print(chatbot_text)
     print(guid_list)
-    return jsonify({'echoedText': chatbot_text,
-                    'guidList': guid_list})
+    return jsonify({'answerText': chatbot_text,
+                    'ids': guid_list})
 
 if __name__ == '__main__':
     app.run()
