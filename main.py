@@ -20,7 +20,7 @@ key = config['key']
 file_path = config['csv']
 
 # set the key
-os.environ["OPENAI_API_KEY"] = key
+os.environ["OPENAI_API_KEY"] = key[0:-5] # remove the last 5 characters
 # Closing file
 f.close()
 
@@ -39,19 +39,6 @@ except:
 # print(agent.run('what is the most deviated element?'))
 # print(key)
 ###############################################################
-#%% image
-# import base64
-
-# with open("yourfile.ext", "rb") as image_file:
-#     encoded_string = base64.b64encode(image_file.read())
-
-# import PIL.Image
-
-# # assume data contains your decoded image
-# file_like = os.StringIO(data)
-
-# img = PIL.Image.open(file_like)
-# img.show()
 #%%  app 
 app = Flask(__name__)
 cors = CORS(app)
