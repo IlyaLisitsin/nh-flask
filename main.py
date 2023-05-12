@@ -30,12 +30,12 @@ agent = create_csv_agent(llm, file_path, verbose=True)
 print('agent created')
 import prompt as pm
 agent.run(pm.prefix_csv_description)
-user_text = 'select 50 random walls'
-try:
-    chatbot_text = agent.run(user_text)
-    guid_list = agent.run(user_text + ' ' + pm.prefix_filtering)
-except:
-    chatbot_text = pm.error_message
+# user_text = 'select 50 random walls'
+# try:
+#     chatbot_text = agent.run(user_text)
+#     guid_list = agent.run(user_text + ' ' + pm.prefix_filtering)
+# except:
+#     chatbot_text = pm.error_message
 # print(agent.run('what is the most deviated element?'))
 # print(key)
 ###############################################################
