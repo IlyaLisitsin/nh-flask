@@ -8,6 +8,7 @@ from langchain import OpenAI
 from langchain.agents import create_csv_agent
 import os
 import json
+import ast
 #%%  set the key from the json file
 # Opening JSON file
 f = open('./config.json')
@@ -53,11 +54,17 @@ def echo():
     try:
         chatbot_text = agent.run(user_text)
         guid_list = agent.run(user_text + ' ' + pm.prefix_filtering)
+        #just grab the string within the brackets
+        guid_list = '[' + guid_list.split('[')[1].split(']')[0] + ']'
+        try:
+            guid_list = ast.literal_eval(guid_list)
+        except:
+            print(f'guid_list {guid_list} cannot be converted to a list')
+            pass
     except:
         chatbot_text = pm.error_message
         guid_list = []
-    print(chatbot_text)
-    print(guid_list)
+
     return jsonify({'answerText': chatbot_text,
                     'ids': guid_list})
 
