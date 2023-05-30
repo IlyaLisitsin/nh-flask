@@ -29,8 +29,7 @@ llm = OpenAI(temperature=0)
 agent = create_csv_agent(llm, file_path, verbose=True)
 print('agent created')
 import prompt as pm
-# agent.run(pm.prefix_csv_description)
-
+agent.run(pm.prefix_csv_description)
 ###############################################################
 #%%  app 
 app = Flask(__name__)
